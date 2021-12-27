@@ -78,7 +78,7 @@ Blockchain-Ads is a fully decentralized, peer-to-peer marketplace for display an
 
 Blockchain-Ads provide complete transparency, remove central authority, cut out the middleman, reduce fraud, and lower costs for all market participants. Blockchain-Ads Network runs on ETH Blockchain and uses Blockchain-Ads Tokens for ad payments. Fees collected from processing payments are distributed among token holders.
 
-![](.gitbook/assets/1)
+![](https://lh5.googleusercontent.com/FmJfIadnPEmtGaPgQzsYSjNdWmSVpBTjZdMLMBTTdlYVVNi-h8PReWDGxqufbqvnfC3ZWH7vd\_5lNI7m\_CeQxGjPOV4cHimMawSSHLLQN506AIBO5TNgehhKs3JBKpvGrHNSs8UD)
 
 The solutions that Blockchain- Ads propose:
 
@@ -156,7 +156,7 @@ And most importantly all these projects main purpose is to leverage the DeFi sid
 
 The actual Advertising participants, Advertisers, Publishers and most importantly Users are not the core members of the community. The blockchain technology terminology is only used for marketing purposes and not actually used to solve the real problems.
 
-![](<.gitbook/assets/Screen Shot 2564-12-21 at 18.12.37.png>)
+![](https://lh3.googleusercontent.com/RNzPMsEqv4gKOSgIo4II3pOcRSeKj26LwjRu7dPU8i4HoHtRw2tBaNv\_CNNCQG2E3ELILItXkjaRyoEN\_1OloyV2v7VSSlm\_00rYkQ\_CMXq01j1dMOWxwyQQGIIXOOpDHotZxN06)
 
 ### **4. Technology** <a href="#_nj8c7dpy5fjk" id="_nj8c7dpy5fjk"></a>
 
@@ -379,3 +379,37 @@ Finishing development of Blockchain-Ads “Ad NFT’ will take another 3 – 12 
 The, future adserver development to enable serving ads to the metaverse and intergration with the most scalable metaverse projects will take 12-15 months
 
 Simultaneously, we will make further efforts to find business partners in the ad market and start running gateways to existing ad exchanges. By copying inventory from existing ad networks, we will have a good offer for advertisers and publishers from day one.
+
+
+
+LEGAL DISCLAIMER
+
+Read this notice very carefully. It is recommended that you obtain independent legal advice before engaging in any activity pertaining to this document.
+
+Neither we nor any third-party service provider shall be liable for any form of damage or loss, direct or indirect, that may be incurred by you as a consequence of reading this , or other materials produced by Blockchain-Ads, or found via the blockchain-ads.com website.&#x20;
+
+NO OFFERS OF SECURITIES, ADVICE OR SOLICITATION&#x20;
+
+This whitepaper is intended for informational purposes only. It is not intended to be investment advice, solicitation of any kind, nor an endorsement. Any decisions or actions taken on the basis of information presented in this whitepaper, the Blockchain-Ads website, or other content, is done so at your own risk and discretion.
+
+&#x20;FORWARD-LOOKING STATEMENTS&#x20;
+
+Certain information set forth in this whitepaper includes forward-looking information regarding the future of the project, future events and projections. These statements may be identified by, but are not limited to, words and phrases such as ”will“, “estimate”, “believe”, “expect”, “project”, “anticipate”, or other words of similar meaning. Such forward-looking statements are also included in other publicly available materials such as videos, blog posts, interviews, etc.
+
+&#x20;Information contained in this whitepaper constitutes forward-looking statements and includes, but is not limited to: the projected performance of the project completion of the campaign the expected development of the project execution of the project’s vision and strategy future liquidity, working capital, and capital requirements The forward-looking statements involve a variety of risks and uncertainties. Should any of these risks or uncertainties materialize, the actual performance and progress of the Blockchain-Ads might differ from expectations as shown in the forward-looking statements.&#x20;
+
+These statements are not guarantees of future performance and no undue reliance should be placed on them. Blockchain-Ads undertakes no obligation to update forward-looking statements if circumstances change. By acting upon forward-looking information received from the whitepaper, Blockchain-Ads website, and other materials produced by Blockchain-Ads, you bear full responsibility in the case of forward-looking statements not materializing.&#x20;
+
+No Guarantees There is no guarantee that the Blockchain-Ads platform will be a success. Similarly, there is no guarantee that the value of the Blockchain-Ads token will rise. You are advised to thoroughly assess the risks and uncertainties involved, before making any decisions.&#x20;
+
+No promises in terms of token value or future performance are made.&#x20;
+
+Exclusion of Liabilities Blockchain-Ads makes no representations or warranties whatsoever, and disclaims all liability and responsibility, to the maximum extent of the law, for any statement or informative material communicated. The Blockchain-Ads team takes all reasonable steps to ensure the integrity and accuracy of information communicated by them.
+
+Upon taking any action after reading information presented in this whitepaper, the Blockchain-Ads website, or other content produced by Blockchain-Ads you confirm that: T
+
+his whitepaper, the Blockchain-Ads website, or any other material produced by Blockchain-Ads, is not an offering, solicitation or prospectus of any kind.&#x20;
+
+Blockchain-Ads is exempted from any direct or indirect liability to the maximum extent of the law. Blockchain-Ads tokens are not regarded as securities in any jurisdiction, and the Blockchain-Ads token is classified as a utility token.&#x20;
+
+You have a good understanding of the key components of blockchain technology and understand how blockchain operates. In addition, you fully understand how to use blockchain wallets, including safeguarding private keys. You are aware of risks involved in the cryptocurrency industry and are able to bear potential losses in full.
