@@ -76,7 +76,7 @@ Not all traffic is of equal value, the vast majority of internet traffic isn't s
 
 Blockchain-Ads is a fully decentralized, peer-to-peer marketplace for display and direct advertising.
 
-Blockchain-Ads provide complete transparency, remove central authority, cut out the middleman, reduce fraud, and lower costs for all market participants. Blockchain-Ads Network runs on ETH Blockchain and uses Blockchain-Ads Tokens for ad payments. Fees collected from processing payments are distributed among token holders.
+Blockchain-Ads provide complete transparency, remove central authority, cut out the middleman, reduce fraud, and lower costs for all market participants. Blockchain-Ads Network runs on Vulos Blockchain and uses Blockchain-Ads Tokens for ad payments. Fees collected from processing payments are distributed among token holders.
 
 ![](https://lh5.googleusercontent.com/FmJfIadnPEmtGaPgQzsYSjNdWmSVpBTjZdMLMBTTdlYVVNi-h8PReWDGxqufbqvnfC3ZWH7vd\_5lNI7m\_CeQxGjPOV4cHimMawSSHLLQN506AIBO5TNgehhKs3JBKpvGrHNSs8UD)
 
