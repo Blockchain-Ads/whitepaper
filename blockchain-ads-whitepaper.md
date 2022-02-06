@@ -6,7 +6,7 @@
 
 The Decentralized industry lacks an effective, default-choice advertising platform. Existing web2.0 advertising platforms are completely centralized and by default inadequate. On the other hand the current web3.0 advertising platforms generally do not comply with the principles of Decentralization in a meaningful way. Moreover, there is also a negligible utilization of blockchain technology in the advertising industry.
 
-We propose a method to completely decentralized advertising engagements using the Blockchain-Ads.com platform and its native token (BADS), an utility and governance token, redeemable on the Blockchain-Ads advertising platform for real-world advertising engagements.
+We propose a method to completely decentralized advertising engagements using the Blockchain-Ads.com platform and its native token (XADS), an utility and governance token, redeemable on the Blockchain-Ads advertising platform for real-world advertising engagements.
 
 The Blockchain-Ads advertising platform is designed to be an ergonomic, simple and effective advertising platform combining the principles of Decentralization with digital advertising.
 
@@ -104,7 +104,7 @@ Standardized exchange and easy access to market will foster development of open 
 
 Furthermore, Blockchain-Ads **does not** operate on a revenue-share basis with publishers, meaning no commissions will be charged on purchased traffic. That means a substantial amount of value that would usually go towards intermediaries and middle-men will instead go directly to supply side publishers and provide a significant boost in ROAS potential for advertisers.
 
-Blockchain-Ads server will be funded directly by sales of the BADS token, which is required to access and buy advertising engagements on the Blockchain-Ads platform. This removes the need for us to charge a commission and gives us the ability to pay top dollar for the best performing traffic assets.
+Blockchain-Ads server will be funded directly by sales of the XADS token, which is required to access and buy advertising engagements on the Blockchain-Ads platform. This removes the need for us to charge a commission and gives us the ability to pay top dollar for the best performing traffic assets.
 
 By offering 0% commission and fees, Blockchain-Ads Server will be able to pay publishers significantly more and stands to be an extremely attractive and lucrative alternative to current advertising platforms. In addition, by abolishing the revenue share / commission model, Blockchain-Ads will find it much easier to negotiate with extremely high quality traffic sources and create tangible long-term value for both the supply side and demand side of the advertising ecosystem.
 
@@ -114,7 +114,7 @@ More information about the business model mechanics can be in the token economic
 
 There's nothing in Blockchain-Ads requiring advertisers/publishers to identify themselves with anything other than a cryptographic identity. Blockchain-Ads is an advertising platform that will exist in an economy that is completely separate from the banking system.
 
-The BADS token replaces the use of fiat currency and does not require a bank account, therefore, anyone with a crypto wallet can access the platform, acquire a BADS balance and use the platform regardless of their identity or banking status.
+The XADS token replaces the use of fiat currency and does not require a bank account, therefore, anyone with a crypto wallet can access the platform, acquire a XADS balance and use the platform regardless of their identity or banking status.
 
 More generally, we can observe that ad exchanges operating in centralized environments have huge pricing power over their users as they can enforce certain policies and accompanying services, like ad quality standards, landing page classification or data services. The smallest users are the ones most disadvantaged in this area. With an efficient, common means of payment, most of the accompanying services can move to on-demand services, competition will greatly increase and prices will fall.
 
