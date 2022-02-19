@@ -6,7 +6,7 @@
 
 The Decentralized industry lacks an effective, default-choice advertising platform. Existing web2.0 advertising platforms are completely centralized and by default inadequate. On the other hand the current web3.0 advertising platforms generally do not comply with the principles of Decentralization in a meaningful way. Moreover, there is also a negligible utilization of blockchain technology in the advertising industry.
 
-We propose a method to completely decentralized advertising engagements using the Blockchain-Ads.com platform and its native token (XADS), an utility and governance token, redeemable on the Blockchain-Ads advertising platform for real-world advertising engagements.
+We propose a method to completely decentralized advertising engagements using the Blockchain-Ads.com platform and its native token (XADS), an utility token, redeemable on the Blockchain-Ads advertising platform for real-world advertising engagements.
 
 The Blockchain-Ads advertising platform is designed to be an ergonomic, simple and effective advertising platform combining the principles of Decentralization with digital advertising.
 
