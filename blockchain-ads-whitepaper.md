@@ -148,7 +148,7 @@ These 3 factors will shift the weight and elevate the game on a different level.
 
 ### 3.2 Web3.0 Decentralized Advertising <a href="#_f3ku492v9r8d" id="_f3ku492v9r8d"></a>
 
-There are few projects that have had an attempt to make an entry in the web3.0 advertising industry. Adex.Network, Adshares.net, DragonX, BAT ….&#x20;
+There are few projects that have had an attempt to make an entry in the web3.0 advertising industry. Alkimi.exchange, Adex.Network, DragonX, BAT, Adshares.net ….&#x20;
 
 All of them generally do not comply with the principles of Decentralization in a meaningful way. None of these projects have Blockchain solutions for tracking and historical data. The transactions and ad inventories are stored on a third party server, off-chain, which defy the whole decentralized value.&#x20;
 
@@ -178,12 +178,12 @@ The Server has to implement everything related to moving funds between advertise
 
 The channel is created with the following information:
 
-* deposit: total monetary deposit; on Ethereum, this is denoted in tokenAddr and tokenAmount;
+* deposit: total monetary deposit; this is denoted in tokenAddr and tokenAmount;
 * validUntil: the date until this channel is valid; this is also the period within the publishers can withdraw, so it should be longer than the actual specified campaign length (e.g. 3x longer);
 * validators: an array of all the validators who are responsible for signing a new state; one of them should represent the advertiser, and the other - the publisher(s);
 * spec: describes all the campaign criteria: e.g. buy as many impressions as possible, the maximum price they're willing to pay for impressions, and campaign duration; this is stored as arbitrary bytes (32); in the platform, we encode the criteria directly in there, but it can be used to reference a JSON descriptor stored on IPFS.
 
-The Ethereum implementation of this component is called Blockchain-Ads-protocol-eth. While the current running implementation of Blockchain-Ads is the Ethereum one, we are also deploying on Polygon and Polkadot.
+The Ethereum implementation of this component is called Blockchain-Ads-protocol-eth. While the current running implementation of Blockchain-Ads is built on Hyperledger blockchain, we are also deploying on Polygon and Polkadot.
 
 The on-chain interactions are:
 
@@ -354,12 +354,11 @@ Please note that the entire balance tree of each channel will be revealed to eve
 
 #### 4. Identity <a href="#_4bl5f6hbl39n" id="_4bl5f6hbl39n"></a>
 
-The Identity layer is currently specific to our Ethereum implementation and designed to streamline the user experience of the Platform.
+The Identity layer is currently specific to our Vulos.io implementation and designed to streamline the user experience of the Platform.
 
 It is a smart contract that allows the users of the Platform (publishers/advertisers) to:
 
-* Use many devices (e.g. PC, mobile, HW wallet) as one identity, without having to share the same private key between them (essentially a multisig)
-* Interact with the Ethereum network without needing to have ETH: fees can be paid in DAI or another ERC20 token
+* Use many devices (e.g. PC, mobile, HW wallet) as one identity, without having to share the same private key between them (essentially a multisig)&#x20;
 * Allow certain actions to be scheduled/performed automatically without needing them to be online, for example withdrawing funds from DREW channels (called "sweeping" to distinguish it from actual withdrawing)
 
 This solves many UX hurdles that are typical for blockchain-related applications.
