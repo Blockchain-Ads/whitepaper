@@ -4,27 +4,45 @@
 
 ### **Abstract** <a href="#_v89y2kyr609" id="_v89y2kyr609"></a>
 
-The Decentralized industry lacks an effective, default-choice advertising platform. Existing web2.0 advertising platforms are completely centralized and by default inadequate. On the other hand the current web3.0 advertising platforms generally do not comply with the principles of Decentralization in a meaningful way. Moreover, there is also a negligible utilization of blockchain technology in the advertising industry.
 
-We propose a method to completely decentralized advertising engagements using the Blockchain-Ads.com platform and its native token (XADS), an utility token, redeemable on the Blockchain-Ads advertising platform for real-world advertising engagements.
 
-The Blockchain-Ads advertising platform is designed to be an ergonomic, simple and effective advertising platform combining the principles of Decentralization with digital advertising.
+The Decentralized industry lacks an effective, default-choice advertising protocol. Existing web2.0 advertising platforms are completely centralized and by default inadequate. On the other hand the current web3.0 advertising platforms generally do not comply with the principles of Decentralization in a meaningful way. Moreover, there is also a negligible utilization of blockchain technology in the advertising industry.
 
-Decentralized Ad Ecosystem Values:
+Blockchain-Ads represents the first DeAdvertising protocol that enables everyone to own part of the advertising industry. At its core the advertising industry has the user data, people that are seeing the ads, and that data currently is completely owned by the big AdTech. Advertisers and Publishers are communicating through a series of intermediaries, such as DMP, DSP, SSP, again completely owned by the big AdTech companies.
 
-* **Censorship resistance**: we empower a free and self-governed ad market with no centralised restrictions on what can and can't be advertised
-* **Transparency**: Real-time collaboration between  publishers, advertiser and users, Blockchain solution for tracking  and historical data
-* **No intermediaries:** connect publishers and advertisers as directly as possible, therefore maximizing results and revenues; this also implies minimized fees and no commissions
-* **Reduced fees.** 90% reduction of the fees is feasible
-* **Single currency.** No problem in cross border commerce
-* **Privacy:** blockchain-ads is build on top of vulos blockchain, which is a private blockchain and only the user have access to his data
-* **No custody of funds:** users have full control over their own funds; you can withdraw any amount at any point, no thresholds
+Blockchain-ads as a decentralized advertising protocol and complete web3 advertising ecosystem, allows users, advertisers and publishers to interact directly using the Blockchain-Ads protocol and its native token (xADS), an utility and governance token, powering the Blockchain-Ads EcoSystem.
 
-This project has two stages of its business growth and market share.
+The blockchain technology and immutable data storage allowing web3 user ownership, is bringing a change, shift in power. By enabling the users, everyday person, to generate his own web3 ID and own his data forever, enabling the advertisers to advertise without censorship, enabling the publishers to monetize their ad space without restrictions, makes the big AdTech companies redundant, giving control to the participants of the advertising industry bypassing the centralized authorities.
 
-**First,** is to provide the Decentralized community with an advertising platform that is as effective and ergonomic as the big tech advertising platforms without the associated censorship, fees, limitations and bank & identity requirements. Web3.0 Personalized advertising enabled.&#x20;
+Decentralization of the advertising industry allows 100% self-sustainability and distributes the $700Bn Advertising industry among the ecosystem participants.
 
-**Second**, to completely shift the current advertising focus to a decentralized ecosystem, by simply moving the competition on a different level. The focus will be on all participants in the ecosystem, and by incentivizing the publishers, advertisers and users, and leveraging the benefits of open-source leger and decentralized advertising solutions, the industry will naturally shift and evolve.
+The Blockchain-Ads protocol is designed to be an ergonomic, simple and effective advertising EcoSystem combining the principles of Decentralization with digital advertising.
+
+Blockchain-Ads Ecosystem Values:
+
+**User data ownership:** enabling the users to create their first AdNFT (web3 ID) that allows them to own their data forever, land and earn.&#x20;
+
+**Transparency:** Real-time collaboration between publishers, advertiser and users, Blockchain solution for tracking and historical data&#x20;
+
+**No intermediaries:** connect users, publishers and advertisers as directly as possible, therefore maximizing results and revenues; this also implies minimized fees and no commissions&#x20;
+
+**Reduced fees:** 90% reduction of the fees is feasible&#x20;
+
+**Single currency.** No problem in cross border commerce
+
+**Privacy:** blockchain-ads is build on top of vulos blockchain, which is a permission based blockchain and only the user have access to his data&#x20;
+
+**No custody of funds:** users have full control over their own funds; you can withdraw any amount at any point, no thresholds&#x20;
+
+**Censorship resistance:** we empower a free and self-governed ad market with no centralized restrictions on what can and can't be advertised&#x20;
+
+_This project has two stages of its business growth and market share._
+
+**First,** is to provide the Decentralized community with an advertising platform that is as effective and ergonomic as the big tech advertising platforms without the associated censorship, fees, limitations and bank & identity requirements.
+
+**Second,** to completely shift the current advertising focus to a decentralized ecosystem, by simply moving the competition on a different level. The focus will be on all participants in the ecosystem, and by incentivizing the publishers, advertisers and users, and leveraging the benefits of blockchain technology and decentralized advertising solutions, the industry will naturally shift and evolve.
+
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
