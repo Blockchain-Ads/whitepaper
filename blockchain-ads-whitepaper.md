@@ -82,19 +82,19 @@ Most advertising platforms get their traffic by offering a revenue share arrange
 
 Not all traffic is of equal value, the vast majority of internet traffic isn't suitable for driving advertising conversions, however, because platforms rely on these content providers sharing their revenue to drive their own profits, traffic is often sold and packaged together from multiple publishers. This dilutes traffic quality and ROAS for the advertisers and drives up cost of acquisition.
 
-### &#x20;<a href="#_mu76wf3uaryi" id="_mu76wf3uaryi"></a>
-
-### &#x20;<a href="#_lfk1rorp69rz" id="_lfk1rorp69rz"></a>
-
 ### **2. Solutions - Web3.0 Advertising Ecosystem** <a href="#_1jlrvb62twy3" id="_1jlrvb62twy3"></a>
 
 **Blockchain-Ads EcoSystem**
 
 **Value proposition**
 
-Blockchain-Ads is a fully decentralized, peer-to-peer marketplace for display and direct advertising.
+Blockchain-Ads is a Web3 Generation in AdTech, offering fully decentralized, peer-to-peer marketplace for display and direct advertising.
 
-Blockchain-Ads provide complete transparency, remove central authority, cut out the middleman, reduce fraud, and lower costs for all market participants. Blockchain-Ads Network runs on Vulos Blockchain and uses Blockchain-Ads Tokens for ad payments. Fees collected from processing payments are distributed among token holders.
+Blockchain-Ads provide complete transparency, remove central authority, cut out the middleman, reduce fraud, and lower costs for all market participants. Blockchain-Ads its a cross-chain, multi-browser solution that is based on web3 Digital Identity.&#x20;
+
+Blockchain Technology is used in two instances. For data storage a permission based blockchain and for payment, open ledger blockchain.&#x20;
+
+The permission based blockchain used at the MVP stage is Vulos Enterprise Blockchain, as a solution build on top of Hyperlegder Fabric and as open ledger payment solution, Blockchain-Ads will deploy on all highly scalable chains with a simple bridge functionality for its token, starting with Polygon and Aurora. As we will get close to the scalability stage, Polkadot, BSC and Algorand will be the chains to deploy on.&#x20;
 
 ![](https://lh5.googleusercontent.com/FmJfIadnPEmtGaPgQzsYSjNdWmSVpBTjZdMLMBTTdlYVVNi-h8PReWDGxqufbqvnfC3ZWH7vd\_5lNI7m\_CeQxGjPOV4cHimMawSSHLLQN506AIBO5TNgehhKs3JBKpvGrHNSs8UD)
 
@@ -124,9 +124,11 @@ Furthermore, Blockchain-Ads **does not** operate on a revenue-share basis with p
 
 Blockchain-Ads server will be funded directly by sales of the XADS token, which is required to access and buy advertising engagements on the Blockchain-Ads platform. This removes the need for us to charge a commission and gives us the ability to pay top dollar for the best performing traffic assets.
 
-By offering 0% commission and fees, Blockchain-Ads Server will be able to pay publishers significantly more and stands to be an extremely attractive and lucrative alternative to current advertising platforms. In addition, by abolishing the revenue share / commission model, Blockchain-Ads will find it much easier to negotiate with extremely high quality traffic sources and create tangible long-term value for both the supply side and demand side of the advertising ecosystem.
+By offering only min transaction fee, Blockchain-Ads Server will be able to pay publishers significantly more and stands to be an extremely attractive and lucrative alternative to current advertising platforms. In addition, by abolishing the revenue share / commission model, Blockchain-Ads will find it much easier to negotiate with extremely high quality traffic sources and create tangible long-term value for both the supply side and demand side of the advertising ecosystem.
 
 More information about the business model mechanics can be in the token economics section of this document.
+
+![](<.gitbook/assets/Screen Shot 2565-06-23 at 19.15.30.png>)
 
 ### **2.3 Bank - less Advertising** <a href="#_9wp378ntiwe" id="_9wp378ntiwe"></a>
 
@@ -201,7 +203,7 @@ The channel is created with the following information:
 * validators: an array of all the validators who are responsible for signing a new state; one of them should represent the advertiser, and the other - the publisher(s);
 * spec: describes all the campaign criteria: e.g. buy as many impressions as possible, the maximum price they're willing to pay for impressions, and campaign duration; this is stored as arbitrary bytes (32); in the platform, we encode the criteria directly in there, but it can be used to reference a JSON descriptor stored on IPFS.
 
-The Ethereum implementation of this component is called Blockchain-Ads-protocol-eth. While the current running implementation of Blockchain-Ads is built on Hyperledger blockchain, we are also deploying on Polygon and Polkadot.
+The  implementation of this component is called Blockchain-Ads-protocol-ads. While the current running implementation of Blockchain-Ads is built on Hyperledger Fabric blockchain, we are also deploying on Polygon and Polkadot.
 
 The on-chain interactions are:
 
@@ -225,7 +227,7 @@ The market is currently implemented in the Blockchain-Ads-market repository. Bec
 
 **4.2.1 Header Bidding Technology**
 
-Header bidding is very rapidly replacing RTB in the adtech industry. Header bidding is the process of pulling all the bids in the browser, evaluating them and then sending the preferred bids to the ad exchange. In Blockchain-Ads, there is no classic ad exchange, but what we do is even more convenient: we pull all information about demand (campaigns, bids) in the browser, and directly select the bid depending on what we know about the user, therefore implementing targeting without revealing the user's profile.
+Header bidding is very rapidly replacing RTB in the AdTech industry. Header bidding is the process of pulling all the bids in the browser, evaluating them and then sending the preferred bids to the ad exchange. In Blockchain-Ads, there is no classic ad exchange, but what we do is even more convenient: we pull all information about demand (campaigns, bids) in the browser, and directly select the bid depending on what we know about the user, therefore implementing targeting without revealing the user's profile.
 
 In other words, in Blockchain-Ads, advertisers can bid for an impression in real-time, but we do not implement traditional real-time bidding.
 
@@ -293,19 +295,23 @@ Advertisers may report tags that allow for remarketing, such as a tag indicating
 
 ### 5. User EcoSystem <a href="#_q71hif8ola46" id="_q71hif8ola46"></a>
 
-When the system reaches widespread adoption, users can start to use Blockchain-Ads “Ad NFT”. For example, a user can use Ad NFT that will completely change the way users interact with advertising as it is. All the data and all preferences will be logged and stored in a digital identity signature, something we like to call “Ad NFT”.
+When the system reaches widespread adoption, users can start to use Blockchain-Ads “AdNFT”. For example, a user can use AdNFT that will completely change the way users interact with advertising as it is. All the browsing data and all preferences will be logged and stored onchain in a digital identity-like solution, something we like to call “AdNFT”.
 
-**5.1 The Blockchain-Ads “Ad NFT”**
+**5.1 The Blockchain-Ads “AdNFT”**
 
-The Blockchain-Ads “Ad NFT” is a user-facing part of Blockchain-Ads that allows the user to control their ad preferences.
+The Blockchain-Ads “AdNFT” is a user-facing part of Blockchain-Ads that allows the user to earn on their browsing data and additionally control their ad preferences.
 
-In particular, all user ad preferences and interests will be stored onchain using DIgital Signature Validator, and it will belong solely to the user forever.
+Through the AdNFT, users and organizations can create their own web3 cookie, (stored locally on their machine).&#x20;
 
-Users can opt out of seeing certain kinds of ads, can log their interest and can charge other third parties for using their data.
+The technology used is Digital Identity Solution,  where permission based blockchain is being used for all the data storage which is solely owned by the user. A channel can be open between two end points on the chain, where the user gives and revokes access to their personal browsing data. When a channel is open with the Blockchain-Ads protocol, the platform receives 1st party data and the user get rewarded in micropayments as an incentive. &#x20;
 
-With Digital Identity Adoption, it's possible for users to earn monetary rewards as well, so at some point the “Ad NFT” may be used to allow for users to withdraw their funds.
+Additionally, through the AdNFT, users can set their Ad Preferences, log their interest, opt out of seeing certain kinds of ads, and can charge other third parties for using their data.
 
-The public implementation of the “Ad NFT” is planned at the end of 2022 .
+In particular, all user ad preferences and interests will be stored onchain using Digital Signature Validator, and it will belong solely to the user forever.
+
+The public implementation of the “AdNFT” is planned at the end of 2022 .
+
+![](<.gitbook/assets/Screen Shot 2565-06-23 at 18.36.20.png>)
 
 #### &#x20;<a href="#_gxpxmvjydptn" id="_gxpxmvjydptn"></a>
 
@@ -321,7 +327,7 @@ To ensure that infrastructure providers such as the Market and validators have n
 
 **5.3 Rewarding end-users for attention**
 
-Through “Ad NFT”, it's possible that users are rewarded for certain events.
+Through “AdNFT”, it's possible that users are also rewarded for certain events.
 
 We do intend to implement this capability in the validator stack once we analyze the implications and risks. Once we've established a model we're confident with, we will make this configurable through the campaignSpec.
 
@@ -351,8 +357,8 @@ One of the main challenges of any digital advertising system is preventing fake 
 
 There are a few ways to mitigate that in Blockchain-Ads:
 
-1. Traditional adtech methods, such as IP whitelists/blacklists, as well as verifying publishers by their domain name
-2. The Server has to send each event to each validator, and they will keep an internal ledger of IPs events came from and impose a limit
+1. Traditional AdTech methods, such as IP whitelists/blacklists, as well as verifying publishers by their domain name
+2. The Server has to send each event to each validator, and they will keep an internal ledger of IPs events came from and impose a limit.
 3. Requiring a proof of work challenge to be solved in order to submit a click/impression message, therefore making it more expensive than the reward you'd get for the corresponding event
 4. The Server allows publishers to vouch for users of their website/app, for example if a user registers on your website and verifies a valid phone number; that allows users to gain reputation as "real" users, and therefore more conservative advertisers may define in their campaigns to only target users above a certain threshold
 
@@ -360,7 +366,7 @@ Blockchain-Ads tries to make it as hard as possible. We believe the transparent 
 
 #### 3. Privacy of publishers/advertisers <a href="#_fqzebh8tvqse" id="_fqzebh8tvqse"></a>
 
-There's nothing in Blockchain-Ads requiring advertisers/publishers to identify themselves with anything other than a cryptographic identity. Information that might reveal more (e.g. ad unit info, web addresses, creatives) is kept off-chain and and revealed between parties only with explicit consent.
+There's nothing in Blockchain-Ads requiring advertisers/publishers to identify themselves with anything other than a cryptographic identity (wallet address). Information that might reveal more (e.g. ad unit info, web addresses, creatives) is kept on permission based blockchain and completely decentralized data storage.
 
 Furthermore, the full event history is distributed across validators/observers. Each validator will only collect the full event history for the channels they're validating.
 
@@ -372,7 +378,7 @@ Please note that the entire balance tree of each channel will be revealed to eve
 
 #### 4. Identity <a href="#_4bl5f6hbl39n" id="_4bl5f6hbl39n"></a>
 
-The Identity layer is currently specific to our Vulos.io implementation and designed to streamline the user experience of the Platform.
+The Identity layer is currently specific to our Vulos Digital Identity implementation and designed to streamline the user experience of the Platform.
 
 It is a smart contract that allows the users of the Platform (publishers/advertisers) to:
 
@@ -381,7 +387,7 @@ It is a smart contract that allows the users of the Platform (publishers/adverti
 
 This solves many UX hurdles that are typical for blockchain-related applications.
 
-In the Platform, we also allow the so-called "Quick accounts' ': you can sign up with an email/passphrase, and the Platform will generate and store a keypair for you, encrypted with your passphrase. Because this is suboptimal for security, those accounts may be limited (by the Market) in terms of DAI they can earn. However, thanks to the Identity layer, those accounts can be easily secured by de-authorizing the temporary keypair and authorizing a proper wallet such as Metamask/Trezor.
+In the Platform, we also allow the so-called "Quick accounts' ': you can sign up with an email/passphrase, and the Platform will generate and store a keypair for you, encrypted with your passphrase. Because this is suboptimal for security, those accounts may be limited (by the Market) in terms of earnings. However, thanks to the Identity layer, those accounts can be easily secured by de-authorizing the temporary keypair and authorizing a proper wallet such as Metamask/Trezor.
 
 ### Growth plan <a href="#_elxrpko2qkw7" id="_elxrpko2qkw7"></a>
 
@@ -389,11 +395,11 @@ Blockchain-Ads EcoSystem is under active development.
 
 Blockchain-Ads Adserver and Blockchain-Ads platform have completed MVP stage. The platform is functional and currently is connected with several ad networks and publishers.
 
-Bringing Blockchain-Ads ecosystem to full operaple and scalable stage, will take 1 - 6 months depending on funding levels.
+Bringing Blockchain-Ads ecosystem to full operaple and scalable stage, will take 3 - 6 months depending on funding levels.
 
-Finishing development of Blockchain-Ads “Ad NFT’ will take another 3 – 12 months.
+Finishing development of Blockchain-Ads “AdNFT’ will take another 3 – 12 months.
 
-The, future adserver development to enable serving ads to the metaverse and intergration with the most scalable metaverse projects will take 12-15 months
+The, future adserver development of compatible Metaverse and GameFi API's enabling serving Virtual 3D Ads  will take 6 -12 months, including integrating with the most scalable Metaverse projects.
 
 Simultaneously, we will make further efforts to find business partners in the ad market and start running gateways to existing ad exchanges. By copying inventory from existing ad networks, we will have a good offer for advertisers and publishers from day one.
 
