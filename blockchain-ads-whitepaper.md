@@ -26,7 +26,7 @@ The Blockchain-Ads is designed to be an ergonomic, simple and effective advertis
 
 _**This project has two stages of its business growth and market share.**_
 
-**First,** enter and capture the web3 advertising industry as a dominant player.                   As part of the core value is providing marketers in the space to reach people based on the:
+**First,** enter and capture the web3 advertising industry as a dominant player.                                   As part of the core value, is to provide marketers in the space to reach people based on the:
 
 * token they hold
 * chain they interact with
