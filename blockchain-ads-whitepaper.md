@@ -468,7 +468,7 @@ Please note that the entire balance tree of each channel will be revealed to eve
 
 #### 4. Identity <a href="#_4bl5f6hbl39n" id="_4bl5f6hbl39n"></a>
 
-The Identity layer is currently specific to our Vulos Digital Identity implementation and designed to streamline the user experience of the Platform.
+The Identity layer is designed to streamline the user experience of the Platform.
 
 It is a smart contract that allows the users of the Platform (publishers/advertisers) to:
 
@@ -479,15 +479,39 @@ This solves many UX hurdles that are typical for blockchain-related applications
 
 In the Platform, we also allow the so-called "Quick accounts' ': you can sign up with an email/passphrase, and the Platform will generate and store a keypair for you, encrypted with your passphrase. Because this is suboptimal for security, those accounts may be limited (by the Market) in terms of earnings. However, thanks to the Identity layer, those accounts can be easily secured by de-authorizing the temporary keypair and authorizing a proper wallet such as Metamask/Trezor.
 
-### Growth plan <a href="#_elxrpko2qkw7" id="_elxrpko2qkw7"></a>
+### 5. Growth plan <a href="#_elxrpko2qkw7" id="_elxrpko2qkw7"></a>
 
 The Blockchain-Ads EcoSystem is under active development.
 
-Blockchain-Ads Ad Platform and Blockchain-Ads Analytics have completed MVP stage and currently in the market fit phase. The platform is functional and currently is connected with several ad networks and publishers.
+Blockchain-Ads Ad Platform and Blockchain-Ads Analytics have completed MVP stage and currently are in the market fit phase. The platform is functional and currently is connected with several ad networks and publishers.
 
-Bringing Blockchain-Ads ecosystem to full operable and scalable stage, will take 3 - 6 months depending on funding levels.
+Bringing Blockchain-Ads ecosystem to full operable and scalable stage, will take 6 - 12 months depending on funding levels.
 
-Simultaneously, we will make further efforts to find business partners in the ad market and start running gateways to existing ad exchanges. By copying inventory from existing ad networks, we will have a good offer for advertisers and publishers from day one.
+Based on the 9 months of testing the market the EcoSystem Generated more than $550k in revenue from 25 clients. The cost per acquisition was +$40,000.&#x20;
+
+Cost per client acquisition includes automated lead generation infrastructure + salaries & commissions of marketing, growth, design and sales employees and contractors.
+
+Based of that numbers this is the proposed growth plan.
+
+1. Expand the client base: Assuming the company generates in average $22,000 in revenue per client with a CPA of $1,600, the EcoSystem would need to acquire around 1,818 new clients in the next 5 years to reach $40,000,000 in revenue. Given the 50% retention rate, the company would need to acquire a total of 3,636 clients over the course of the next 5 years.
+
+* There is a structure in place that have been used by the BlockchainAds Labs team to scale a web2 AdTech solution from $10K to $550K in MRR within 3 years. It is a system that is heavily focusing on outbound LeadGen, leveraging Automation tools and B2B social network API's. For the Scaling stage this will grow from 6 to 60 accounts and from a team of 2 to a team of 12. The B2B campaigns will be supported with Brand Awareness Paid Media campaings using Match audience targeting cross platfroms.&#x20;
+* An inbound LeadGen is the second approach which will complement the Outbound strategy which consist on full 360 marketing strategy; PR and social content as well as extensive SEO. The inbound strategy consist of having a refferal and marketing partners as vast expansion opportunity. (think of it GoogleAds Partnership program- or an affiliate program
+
+2. Develop strategic partnerships: These partnerships will help the EcoSystem reach a wider audience and establish itself as a key player in the industry. Assuming the team signs 5 strategic partnerships in the next 5 years, this could lead to an additional 473 new clients and $10,000,000 in revenue.
+
+* Partnership will be formed mostly with the data marketplace: there is a strong demand on the market for user data, especially after the death of the cookies.&#x20;
+
+Some example of partners:
+
+* Small & Medium sized Data businesses who are looking for new audiences to add to their taxonomies: companies such as BDex, OnAudience, Iponweb who sell data and are always looking for the next audience to monetize. These players’ demand will be very elastic, depending on the volume of ad spend in the Web3 space. They are always looking for new sales opportunities, especially in “unexplored” verticals. However, they may be easier to approach from their customers’ side, by having advertisers refer us to them. Advertisers who are already integrating with such DMPs or DSPs will want to have our audiences onboarded through those platforms for ease of access. Once our foot is inside the door, it will be easy to scale our business with those Data companies and have them sell our audiences for us to their clients.
+
+2. Expand product offering: Blockchain-ads revenue from the MVP stage is solely from the AdPlatform. Expanding the offering with the Analytics tools and the Data marketplace, the EcoSystem has the potential to generate additional revenue. Assuming the revenue is $100 per subscription for the analytics tools and $15,000 per subscription for the data marketplace, and acquires 1,000 new subscribers over the next 5 years, this could lead to $20,000,000 in additional revenue.
+3. Invest in R\&D: Blockchain Ads Labs team will definitely invest in research and development to stay ahead of the curve in the rapidly evolving crypto market. This could involve exploring new technologies or developing proprietary algorithms, such as AI optimization model, that improve the performance of the Ad Platform. Assuming the team invests 10% of its revenue in R\&D, this could lead to new product features and efficiencies that lead to 20% increase in revenue, or around $8,000,000 in additional revenue.
+4. Develop a strong brand: Blockchain Ads will work on developing a strong brand that is recognizable and trusted in the crypto market and other restrictive industries. This could involve a comprehensive brand strategy that includes public relations, social media and content marketing. Assuming the company invests 5% of its revenue in branding, this could lead to an additional 10% increase in revenue or around $4,000,000 in additional revenue.
+5. Expand to new markets: Once EcoSystem has established a strong presence in the crypto market it will consider expanding into new markets. This could include other industries where privacy and compliance are important, such as gaming, gambling CBD or alcohol. Assuming the company expands to two new industries in the next 5 years, this could lead to an additional 546 new clients and $12,000,000 in revenue.
+6. Focus on customer success: Blockchain Ads will prioritize customer success by providing excellent product service and ongoing support. This will help to retain existing clients and attract new ones through positive referrals. Assuming the company maintains a client retention rate of 50%, this would lead to a retention of 1,818 clients and $40,000,000 in revenue.
+7. Maintain a data-driven approach: Blockchain Ads will continue to use data to inform decision-making and optimize the performance of the Ad Platform. This could involve analyzing data on customer behavior, campaign performance, and market trends to identify opportunities for growth and improvement. Assuming the company uses data to improve campaign performance by 10%, this could lead to an additional $4,000,000 in revenue.
 
 
 
