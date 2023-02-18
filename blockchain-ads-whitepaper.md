@@ -26,7 +26,7 @@ The Blockchain-Ads is designed to be an ergonomic, simple and effective advertis
 
 _**This project has two stages of its business growth and market share.**_
 
-**First,** enter and capture the web3 advertising industry as a dominant player.                                   As part of the core value, is to provide marketers in the space to reach people based on the:
+**First,** enter and capture the web3 advertising industry as a dominant player. As part of the core value, is to provide marketers in the space to reach people based on the:
 
 * token they hold
 * chain they interact with
@@ -96,7 +96,7 @@ Blockchain-Ads is a Web3 Generation in AdTech & BigData, offering decentralized 
 
 Blockchian-Ads has 3 products that are proprietary solutions and cover all the elements from the AdTech industry.
 
-1. Full Attribution/Analytics tool&#x20;
+1. Attribution/Analytics tool&#x20;
 2. Data Marketplace (Management platform)
 3. Advertising Platform
 
@@ -110,7 +110,7 @@ Blockchain-Ads provide complete transparency, remove central authority, cut out 
 
 The solutions that Blockchain-Ads is suggesting:
 
-1. **Full Attribution/Analytics platform**
+### **2.1 Attribution/Analytics platform**
 
 Considering the fact the some of the biggest Brand companies are entering the web3 space, and creating new renvenue models, for example Disney or NBA, who combined grossed over 1B in revenue from their branded digital collectibles. There are more then 1000 top brands that are looking to enter this profitable business line. The biggest problem is the data insights. Crypto wallets are build for privacy and anonymity. How can marketers see what marketing sources are marketing efforts are bringing the best performance and how can they see what users want and what are they interested in.
 
@@ -132,7 +132,7 @@ Price starts at $200 for 600,000 hits (per month) and goes up to $15,000 for 100
 
 
 
-2. **Private Data Management Platform (Marketplace)**
+### **2.2 Private Data Management Platform (Marketplace)**
 
 The concept of a Private Data Management Platform is a marketplace for users browsing data, a place where dataset are being stored and sold. The focus is held on privacy and immutability. The [big data industry is roughly worth $200Bn](https://www.marketsandmarkets.com/Market-Reports/big-data-market-1068.html) and massively surpressed by legislation. The whole industry is in jeopardy of collapsing. The solution is very simple. Data democratization and shared revenue model.&#x20;
 
@@ -180,7 +180,7 @@ Data provider’s revenue will be split equally between all publishers that shar
 
 On the demand side: The Private Data Management platform enable activation of 3rd party data, segmenting 1st party data and activating those segments cross-platforms. Using a Universal ID and mobile ID the data can be activated on any programmatic platforms, social platfroms, retargeting...etc. This opens up a lot of used-cases.
 
-#### **2.1 Web3Cookie**
+#### **2.2.1 Web3Cookie**
 
 The Core proprietery solution within the BCA EcoSystem is the "Web3cookie"&#x20;
 
@@ -220,7 +220,7 @@ The technical implementation of the cookie is in the [BCA GitRepo](https://githu
 
 
 
-### **3. Ad Platform (Marketplace)**.  <a href="#_nj8c7dpy5fjk" id="_nj8c7dpy5fjk"></a>
+### **2.3 Ad Platform (Marketplace)**.  <a href="#_nj8c7dpy5fjk" id="_nj8c7dpy5fjk"></a>
 
 In summary Blockchain-Ads P2P Ad platform is based on the following model of marketplace; every advertiser creates an account on blockchain and associates it with their domain.
 
@@ -230,7 +230,7 @@ Publishers use blockchain to discover advertisers and crawl their inventories. W
 
 Advertisers have an incentive to pay a fair amount for displaying their ads or risk getting banned from the most valuable sites, or even lose bids to other advertisers. Publishers are incentivized to display the most matching ads to maximize their yield.
 
-### 3.1 Ad Server <a href="#_wlgy1ghn81km" id="_wlgy1ghn81km"></a>
+#### 2.3.1 Ad Server <a href="#_wlgy1ghn81km" id="_wlgy1ghn81km"></a>
 
 The Blockchain-Ads protocol builds on top of blockchain tech to facilitate the parts that need achieving consensus in a trust-less, decentralized manner. This part is commonly referred to as the "Blockchain-Ads Server".
 
@@ -255,7 +255,7 @@ The on-chain interactions are:
 
 For more information on how the payment channels work, see DREW.
 
-### 3.2 Ad Marketplace <a href="#_ov8z814ochyf" id="_ov8z814ochyf"></a>
+#### 2.3.2 Ad Marketplace <a href="#_ov8z814ochyf" id="_ov8z814ochyf"></a>
 
 The market is a RESTful service maintained and hosted by Blockchain-Ads Network.
 
@@ -267,7 +267,7 @@ Additional privacy can be achieved by having groups of publishers/advertisers ru
 
 The market is currently implemented in the Blockchain-Ads-market repository. Because of its aggregation-only role, it can be considered a back-end to the Platform.
 
-**3.2.1 Header Bidding Technology**
+#### **2.3.2.1 Header Bidding Technology**
 
 [Header bidding is very rapidly replacing RTB in the AdTech industry.](https://epom.com/blog/ad-server/waterfall-vs-header-bidding) Header bidding is the process of pulling all the bids in the browser, evaluating them and then sending the preferred bids to the ad exchange. In Blockchain-Ads, there is no classic ad exchange, but what we do is even more convenient: we pull all information about demand (campaigns, bids) in the browser, and directly select the bid depending on what we know about the user, therefore implementing targeting without revealing the user's profile.
 
@@ -279,7 +279,7 @@ From a scalability perspective, real-time bidding can be implemented using off-c
 
 ![](.gitbook/assets/4)
 
-**3.2.2 Campaign Details**
+**2.3.2.2 Campaign Details**
 
 In the Marketplace, each DREW channel has its own spec, which is an arbitrary blob of bytes designed to contain any additional information for this channel.
 
@@ -299,7 +299,7 @@ However, the default option is always impressions as we believe that this create
 
 Ultimately, the raw resource the publisher provides is impressions, and the conversion rate of the ad depends mostly on the advertiser.
 
-**3.2.3 Reporting and analytics**
+**2.3.2.3 Reporting and analytics**
 
 The validators of a DREW channel are usually two instances of the validator stack: one represents the advertiser, and the other represents multiple publishers.
 
@@ -309,7 +309,7 @@ This architecture ensures that both parties get their analytical reports by aggr
 
 In order to maintain compatibility with the existing Blockchain-Ads infrastructure (the Platform and the Server), you don't need to follow the architecture outlined in validator-stack., but you need to implement the same RESTful APIs.
 
-### 3.3 Platform <a href="#_8l5irbd6fmdq" id="_8l5irbd6fmdq"></a>
+#### 2.3.3 Self-service Platform <a href="#_8l5irbd6fmdq" id="_8l5irbd6fmdq"></a>
 
 The primary implementation is Blockchain-Ads-Server-manager, which is designed for the web. It's important to note that the Platform is entirely browser-agnostic. It can run as a library (alongside React or any other modern framework) or in an \<iframe> on the publisher's webpage.
 
@@ -319,7 +319,7 @@ The Platform is responsible for:
 2. Picking which ad to show depending on the user: this depends on a combination of price and targeting (header bidding and contextual targeting);
 3. Generating events (impressions, clicks) and sending them to all validators and observers of the given ad;
 
-**3.3.1 Contextual targeting**
+#### &#x20;    **2.3.3.1 Contextual targeting**
 
 Notice a common pattern here: sensitive information never leaves the user's browser, and this is achieved by shifting the process of targeting (selecting ads) to the browser itself. To achieve this, we use contextual targeting.
 
@@ -327,7 +327,7 @@ This works by relying on publishers to feed what they know about the context (e.
 
 This system is based on tags, which are not specified in the Blockchain-Ads protocol itself and are entirely defined by network participants. They could describe anything - interests, demographics, geographics, etc.
 
-**3.3.2 Behavioral targeting**
+&#x20;  **2.3.3.2 Behavioral targeting**
 
 Because contextual targeting has certain limitations (e.g. no remarketing), there is a possibility to introduce behavioral targeting. This will not compromise privacy, because the data collected is not exposed to any third parties.
 
@@ -337,7 +337,7 @@ Advertisers may report tags that allow for remarketing, such as a tag indicating
 
 ****
 
-**3.4 Privacy of the end-user**
+&#x20;  **2.3.3.3 Privacy of the end-user**
 
 Privacy of end users is protected by not collecting any data at all, at any part of the system. Instead, we leverage contextual targeting.
 
@@ -347,9 +347,11 @@ A further advantage to this approach is that the user can easily control what ki
 
 To ensure that infrastructure providers such as the Market and validators have no ability to collect data, Server sends no identifiable user data when interacting with them. Furthermore, each ad campaign can be handled by different validators to ensure that the validator operators cannot perform side-channel attacks. Finally, validators are required to implement the EFF's Do not track policy.
 
-### **4. Benefits from the Proposed Solution**  <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
+### **** <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
 
-### **4.1 Decentralized Advertising ecosystem** <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
+### **3. Benefits from the Proposed Solution**  <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
+
+#### **3.1 Decentralized Advertising ecosystem** <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
 
 Advertisers and Publishers meet directly using the Blockchain-Ads P2P Network as the core which acts as a decentralized marketplace governed by the smart contracts.
 
@@ -359,7 +361,7 @@ Ultimately, Blockchain-Ads is completely censorship resistant since anyone can r
 
 By providing a viable and effective alternative advertising solution to big tech platforms, specifically designed for the Web3.0 generation, Blockchain-Ads will play an important part in the process of freeing blockchain enterprises from the restrictions and limitations imposed upon them by censorious big tech platforms.
 
-### **4.2 No Middleman - No Fees Or Commissions** <a href="#_emxwv6ux6xsk" id="_emxwv6ux6xsk"></a>
+#### **3.2 No Middleman - No Fees Or Commissions** <a href="#_emxwv6ux6xsk" id="_emxwv6ux6xsk"></a>
 
 The primary goal for the Blockchain-Ads ecosystem is to render various ad exchanges obsolete by using the open platform that will enable advertisers and publishers to find themselves and trade directly using blockchain.
 
@@ -375,7 +377,7 @@ More information about the business model mechanics can be in the token economic
 
 ![](<.gitbook/assets/Screen Shot 2565-06-23 at 19.15.30.png>)
 
-### **4.3 Bank - less Advertising** <a href="#_9wp378ntiwe" id="_9wp378ntiwe"></a>
+#### **3.3 Bank - less Advertising** <a href="#_9wp378ntiwe" id="_9wp378ntiwe"></a>
 
 There's nothing in Blockchain-Ads requiring advertisers/publishers to identify themselves with anything other than a cryptographic identity. Blockchain-Ads is an advertising platform that will exist in an economy that is completely separate from the banking system.
 
@@ -385,7 +387,7 @@ More generally, we can observe that ad exchanges operating in centralized enviro
 
 In addition, we make a commitment to enable open access, without an account, utilizing the wallet sign-in mechanism to identify and manage user accounts.
 
-### **4.4 Transparent and Secure Platform** <a href="#_nz1yehvk0tra" id="_nz1yehvk0tra"></a>
+#### **3.4 Transparent and Secure Platform** <a href="#_nz1yehvk0tra" id="_nz1yehvk0tra"></a>
 
 The Blockchain-Ads platform will not share revenue with publishers, instead, the Blockchain Ad Platform acts as a marketplace where publishers and advertisers communicate directly. The ad in inventories are being offered by the publishers and ad creatives to be advertised by the advertisers, The open ledger allows clear visibility which websites the ads are being shown and the ad traffic by specific zone.
 
@@ -395,11 +397,11 @@ Accounts used to receive and send payments for ads on blockchain will be linked 
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### 5. Advertising Industry Competition <a href="#_mhy21ph31xho" id="_mhy21ph31xho"></a>
+### 4. Advertising Industry Competition <a href="#_mhy21ph31xho" id="_mhy21ph31xho"></a>
 
 The current Advertising landscape can be divided in: Web2.0 & Web3.0
 
-### 5.1 Web2.0 - Centralized <a href="#_v505mv5rv9u" id="_v505mv5rv9u"></a>
+#### 4.1 Web2.0 - Centralized <a href="#_v505mv5rv9u" id="_v505mv5rv9u"></a>
 
 ![](.gitbook/assets/2)
 
@@ -413,7 +415,7 @@ Big players in the ad exchange market like Google DoubleClick, Facebook, Criteo,
 
 These 3 factors will shift the weight and elevate the game on a different level. Meaning that with decentralization taking place across all industries, the Advertising Industry will adapt and evolve, leaving robust, corporate Tech giants.
 
-### 5.2 Web3.0 Decentralized Advertising <a href="#_f3ku492v9r8d" id="_f3ku492v9r8d"></a>
+#### 4.2 Web3.0 Decentralized Advertising <a href="#_f3ku492v9r8d" id="_f3ku492v9r8d"></a>
 
 There are few projects that have had an attempt to make an entry in the web3.0 advertising industry. Alkimi.exchange, Adex.Network, DragonX, BAT, Adshares.net ….&#x20;
 
@@ -493,12 +495,12 @@ Cost per client acquisition includes automated lead generation infrastructure + 
 
 Based of that numbers this is the proposed growth plan.
 
-1. Expand the client base: Assuming the company generates in average $22,000 in revenue per client with a CPA of $1,600, the EcoSystem would need to acquire around 1,818 new clients in the next 5 years to reach $40,000,000 in revenue. Given the 50% retention rate, the company would need to acquire a total of 3,636 clients over the course of the next 5 years.
+1. **Expand the client base:** Assuming the company generates in average $22,000 in revenue per client with a CPA of $1,600, the EcoSystem would need to acquire around 1,818 new clients in the next 5 years to reach $40,000,000 in revenue. Given the 50% retention rate, the company would need to acquire a total of 3,636 clients over the course of the next 5 years.
 
 * There is a structure in place that have been used by the BlockchainAds Labs team to scale a web2 AdTech solution from $10K to $550K in MRR within 3 years. It is a system that is heavily focusing on outbound LeadGen, leveraging Automation tools and B2B social network API's. For the Scaling stage this will grow from 6 to 60 accounts and from a team of 2 to a team of 12. The B2B campaigns will be supported with Brand Awareness Paid Media campaings using Match audience targeting cross platfroms.&#x20;
 * An inbound LeadGen is the second approach which will complement the Outbound strategy which consist on full 360 marketing strategy; PR and social content as well as extensive SEO. The inbound strategy consist of having a refferal and marketing partners as vast expansion opportunity. (think of it GoogleAds Partnership program- or an affiliate program
 
-2. Develop strategic partnerships: These partnerships will help the EcoSystem reach a wider audience and establish itself as a key player in the industry. Assuming the team signs 5 strategic partnerships in the next 5 years, this could lead to an additional 473 new clients and $10,000,000 in revenue.
+2. **Develop strategic partnerships**: These partnerships will help the EcoSystem reach a wider audience and establish itself as a key player in the industry. Assuming the team signs 5 strategic partnerships in the next 5 years, this could lead to an additional 473 new clients and $10,000,000 in revenue.
 
 * Partnership will be formed mostly with the data marketplace: there is a strong demand on the market for user data, especially after the death of the cookies.&#x20;
 
@@ -506,16 +508,16 @@ Some example of partners:
 
 * Small & Medium sized Data businesses who are looking for new audiences to add to their taxonomies: companies such as BDex, OnAudience, Iponweb who sell data and are always looking for the next audience to monetize. These players’ demand will be very elastic, depending on the volume of ad spend in the Web3 space. They are always looking for new sales opportunities, especially in “unexplored” verticals. However, they may be easier to approach from their customers’ side, by having advertisers refer us to them. Advertisers who are already integrating with such DMPs or DSPs will want to have our audiences onboarded through those platforms for ease of access. Once our foot is inside the door, it will be easy to scale our business with those Data companies and have them sell our audiences for us to their clients.
 
-2. Expand product offering: Blockchain-ads revenue from the MVP stage is solely from the AdPlatform. Expanding the offering with the Analytics tools and the Data marketplace, the EcoSystem has the potential to generate additional revenue. Assuming the revenue is $100 per subscription for the analytics tools and $15,000 per subscription for the data marketplace, and acquires 1,000 new subscribers over the next 5 years, this could lead to $20,000,000 in additional revenue.
-3. Invest in R\&D: Blockchain Ads Labs team will definitely invest in research and development to stay ahead of the curve in the rapidly evolving crypto market. This could involve exploring new technologies or developing proprietary algorithms, such as AI optimization model, that improve the performance of the Ad Platform. Assuming the team invests 10% of its revenue in R\&D, this could lead to new product features and efficiencies that lead to 20% increase in revenue, or around $8,000,000 in additional revenue.
-4. Develop a strong brand: Blockchain Ads will work on developing a strong brand that is recognizable and trusted in the crypto market and other restrictive industries. This could involve a comprehensive brand strategy that includes public relations, social media and content marketing. Assuming the company invests 5% of its revenue in branding, this could lead to an additional 10% increase in revenue or around $4,000,000 in additional revenue.
-5. Expand to new markets: Once EcoSystem has established a strong presence in the crypto market it will consider expanding into new markets. This could include other industries where privacy and compliance are important, such as gaming, gambling CBD or alcohol. Assuming the company expands to two new industries in the next 5 years, this could lead to an additional 546 new clients and $12,000,000 in revenue.
-6. Focus on customer success: Blockchain Ads will prioritize customer success by providing excellent product service and ongoing support. This will help to retain existing clients and attract new ones through positive referrals. Assuming the company maintains a client retention rate of 50%, this would lead to a retention of 1,818 clients and $40,000,000 in revenue.
-7. Maintain a data-driven approach: Blockchain Ads will continue to use data to inform decision-making and optimize the performance of the Ad Platform. This could involve analyzing data on customer behavior, campaign performance, and market trends to identify opportunities for growth and improvement. Assuming the company uses data to improve campaign performance by 10%, this could lead to an additional $4,000,000 in revenue.
+3. **Expand product offering:** Blockchain-ads revenue from the MVP stage is solely from the AdPlatform. Expanding the offering with the Analytics tools and the Data marketplace, the EcoSystem has the potential to generate additional revenue. Assuming the revenue is $100 per subscription for the analytics tools and $15,000 per subscription for the data marketplace, and acquires 1,000 new subscribers over the next 5 years, this could lead to $20,000,000 in additional revenue.
+4. Invest in **R\&D**: Blockchain Ads Labs team will definitely invest in research and development to stay ahead of the curve in the rapidly evolving crypto market. This could involve exploring new technologies or developing proprietary algorithms, such as AI optimization model, that improve the performance of the Ad Platform. Assuming the team invests 10% of its revenue in R\&D, this could lead to new product features and efficiencies that lead to 20% increase in revenue, or around $8,000,000 in additional revenue.
+5. **Branding**: Blockchain Ads will work on developing a strong brand that is recognizable and trusted in the crypto market and other restrictive industries. This could involve a comprehensive brand strategy that includes public relations, social media and content marketing. Assuming the company invests 5% of its revenue in branding, this could lead to an additional 10% increase in revenue or around $4,000,000 in additional revenue.
+6. **Expand to new markets:** Once EcoSystem has established a strong presence in the crypto market it will consider expanding into new markets. This could include other industries where privacy and compliance are important, such as gaming, gambling CBD or alcohol. Assuming the company expands to two new industries in the next 5 years, this could lead to an additional 546 new clients and $12,000,000 in revenue.
+7. **Focus on customer success**: Blockchain Ads will prioritize customer success by providing excellent product service and ongoing support. This will help to retain existing clients and attract new ones through positive referrals. Assuming the company maintains a client retention rate of 50%, this would lead to a retention of 1,818 clients and $40,000,000 in revenue.
+8. **Maintain a data-driven approach:** Blockchain Ads will continue to use data to inform decision-making and optimize the performance of the Ad Platform. This could involve analyzing data on customer behavior, campaign performance, and market trends to identify opportunities for growth and improvement. Assuming the company uses data to improve campaign performance by 10%, this could lead to an additional $4,000,000 in revenue.
 
 
 
-LEGAL DISCLAIMER
+**LEGAL DISCLAIMER**
 
 Read this notice very carefully. It is recommended that you obtain independent legal advice before engaging in any activity pertaining to this document.
 
