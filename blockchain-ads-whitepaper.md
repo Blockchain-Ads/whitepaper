@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/0)**BLOCKCHAIN-ADS WHITEPAPER**
 
-### **Abstract** <a href="#_v89y2kyr609" id="_v89y2kyr609"></a>
+### **Abstract** <a href="#v89y2kyr609" id="v89y2kyr609"></a>
 
 Web 3.0 is the next generation of the internet, which aims to provide a decentralized and more secure network. One of the major applications of Web 3.0 is advertising technology (AdTech) and Big data, which is currently monopolized by a few tech giants. The use of blockchain technology, zero-knowledge proofs for data validation, and a peer-to-peer (P2P) marketplace without middlemen creates more efficient and transparent environment. When combined with AI and machine learning, this can lead to a disruption of the current market monopoly.
 
@@ -15,7 +15,7 @@ In summary a layer 3 that provide immutability and privacy at the same time whil
 The Blockchain-Ads EcoSystem use few key technology advancements: &#x20;
 
 * The Blockchain-Ads EcoSystem leverages **blockchain technology** to create a transparent, secure, and more efficient advertising ecosystem. Instead of relying on a few large advertising networks and intermediaries, web3 advertising is built on a peer-to-peer marketplace that allows advertisers to directly connect with publishers and users. The EcoSystem uses blockchain tech in two instances, for data validation and for payment.&#x20;
-*   One of the critical features of web3 advertising technology is **web3 data attribution**. Blockchain-Ads proprietary tech enable full 360 attribution, meaning that it can track user behavior across multiple platforms and touchpoints. This can be achieved through the use of the proprietary "web3cookie", which allow user data to securely and anonymously be used to build out profiles.(off-chain and on-chain)
+*   One of the critical features of web3 advertising technology is **web3 data attribution**. Blockchain-Ads proprietary tech enable full 360 attribution, meaning that it can track user behavior across multiple platforms and touch points. This can be achieved through the use of the proprietary "web3cookie", which allow user data to securely and anonymously be used to build out profiles. (off-chain and on-chain)
 
     This provides a much more comprehensive and accurate view of user behavior, which can lead to more effective targeting and better user experiences. This ledger tracks the origin of data, who owns it, and how it is used.&#x20;
 * **"Web3cookies"** are another essential component of the web3 advertising ecosystem. Web3 cookies are an extension of standard web3 cookies that add an extra layer of web3 properties. This layer provides complete user privacy while still allowing for 360-degree attribution. Unlike traditional cookies, which are stored on centralized servers and are vulnerable to data breaches, web3 cookies are stored on a decentralized blockchain network. Importantly, the web3 cookie are designed to prioritize user privacy and data security.
@@ -35,24 +35,22 @@ _**This project has two stages of its business growth and market share.**_
 
 At the same time providing full insights on Marketing efforts attribution and giving brands [insights on what marketing channels and sources are most effective](https://blockchain-ads.com/analytics.html) and calculate their ROI.
 
-**Second,** the growth will expand from serving web3 and crypto industry to the rest of the advertising restrictive industries, such as online [gambling and betting](https://www.playusa.com/research-firm-us-online-gambling-advertising-spending/), CBD, [adult](https://www.statista.com/statistics/1101065/match-group-ad-cost/) and [tobacco](https://www.statista.com/statistics/470438/cigarettes-industry-ad-spend-usa/), alcohol...etc. This is almost 8% of the [$750](https://www.statista.com/topics/990/global-advertising-market/#topicOverview)[ ](#user-content-fn-1)[^1][Billion advertising industry.](https://www.statista.com/topics/990/global-advertising-market/#topicOverview)
+**Second,** the growth will expand from serving web3 and crypto industry to the rest of the advertising regulated industries, such as online [gambling and betting](https://www.playusa.com/research-firm-us-online-gambling-advertising-spending/), CBD, [adult](https://www.statista.com/statistics/1101065/match-group-ad-cost/) and [tobacco](https://www.statista.com/statistics/470438/cigarettes-industry-ad-spend-usa/), alcohol...etc. This is almost 8% of the [$750](https://www.statista.com/topics/990/global-advertising-market/#topicOverview)[ ](#user-content-fn-1)[^1][Billion advertising industry.](https://www.statista.com/topics/990/global-advertising-market/#topicOverview)
 
-The core value is providing marketers in those industires:
+The core values it's providing in those industries are:
 
+* Increased performance and reduced cost per Acquisition
 * No restrictions in advertising&#x20;
 * Completely removing ad-fraud and click-bots&#x20;
 * Absolute privacy for their users&#x20;
-* Drastically increased performance and reduced cost per Acqusition
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 This paper will continue on the assumption that the reader possesses a basic understanding of blockchain technology and the advertising ecosystem.
 
-### **1. Problems In Advertising We're Trying To Solve** <a href="#_t7l2f2am0ou" id="_t7l2f2am0ou"></a>
+### **1. Problems In Advertising we are solving** <a href="#t7l2f2am0ou" id="t7l2f2am0ou"></a>
 
-### **1.1 User Privacy & AdTech Transparency** <a href="#_25ebrhmsrc2l" id="_25ebrhmsrc2l"></a>
+### **1.1 User Privacy &  Transparency** <a href="#id-25ebrhmsrc2l" id="id-25ebrhmsrc2l"></a>
 
 As the most obvious example, The most popular and widely used advertising solutions; Google, Facebook consistently made it incredibly difficult for blockchain companies to raise funds, sell their products and innovate. This is because they've consistently been blocking, banning and confounding advertisers in the blockchain industry for several years. This presents a significant obstacle and limiting factor for the growth of blockchain companies as a whole.
 
@@ -62,7 +60,7 @@ Most advertising platforms get their traffic by offering a revenue share arrange
 
 Not all traffic is of equal value, the vast majority of internet traffic isn't suitable for driving advertising conversions, however, because platforms rely on these content providers sharing their revenue to drive their own profits, traffic is often sold and packaged together from multiple publishers. This dilutes traffic quality and ROAS for the advertisers and drives up cost of acquisition.
 
-### **1.2 Centralization and Censorship** <a href="#_wer15eyb0y1r" id="_wer15eyb0y1r"></a>
+### **1.2 Centralization and Censorship** <a href="#wer15eyb0y1r" id="wer15eyb0y1r"></a>
 
 The current advertising web2.0 industry is massively centralized. Few big companies own 90% of the market. All the participants in the ecosystem, advertisers, publishers and users depend on the big tech companies. Only Google and Facebook own 70% of the $400bn industry. Just because they own the data.
 
@@ -70,13 +68,13 @@ Massive restrictions and censorship are in place and the regulations are being d
 
 As the most obvious example, The most popular and widely used advertising solutions; Google, Facebook consistently made it incredibly difficult for blockchain companies to raise funds, sell their products and innovate. This is because they've consistently been blocking, banning and confounding advertisers in the blockchain industry for several years. This presents a significant obstacle and limiting factor for the growth of blockchain companies as a whole.
 
-### **1.3 Banking & Identity Requirements** <a href="#_44uux6ao3zc1" id="_44uux6ao3zc1"></a>
+### **1.3 Banking & Identity Requirements** <a href="#id-44uux6ao3zc1" id="id-44uux6ao3zc1"></a>
 
 Furthermore, to advertise your business using one of the big tech platforms, a bank account and some form of identity documents are usually required. This bars many people in the developing world from using these platforms. In addition, the use of fiat currency and banks is required to fund an account. This requires the user to have a bank account and use the legacy financial system to participate in online advertising.
 
 Furthermore, they are obliged to report and pay tax on what they have earned from using those advertising platforms.
 
-### **1.4 High Fees, Low-Value** <a href="#_x7p6skc7v9rb" id="_x7p6skc7v9rb"></a>
+### **1.4 High Fees, Low-Value** <a href="#x7p6skc7v9rb" id="x7p6skc7v9rb"></a>
 
 Advertising platforms are notorious for charging extremely high fees and commissions. These platform fees range from 25 - 60% in most cases.
 
@@ -86,15 +84,15 @@ This results in a lot of problems for the ad business. Because so many ad dollar
 
 What makes this problem particularly challenging is that the value offered by middlemen and intermediaries is often low, this creates an atmosphere of mistrust, fraud and bad-faith in the industry.
 
-### **2. Solutions - Web3.0 AdTech and Big Data Ecosystem** <a href="#_1jlrvb62twy3" id="_1jlrvb62twy3"></a>
+### **2. Solutions - Web3.0 Advertising and Marketing Ecosystem** <a href="#id-1jlrvb62twy3" id="id-1jlrvb62twy3"></a>
 
 **Blockchain-Ads EcoSystem**
 
 **Value proposition**
 
-Blockchain-Ads is a Web3 Generation in AdTech & BigData, offering decentralized infastructure, where native web3 AdTech applications and transitioning web2 solutions can benefit from. Providing the blockchain immutability and trust, using ZK solution for scalability all of the events are validated on-chain with minimum cost and with absolute privacy for all EcoSystem participants.&#x20;
+Blockchain-Ads is a Web3 Generation in AdTech & MarTech, offering decentralized infrastructure, where native web3 AdTech applications and transitioning web2 solutions can benefit from. Providing the blockchain immutability and trust, using ZK solution for scalability all of the events are validated on-chain with minimum cost and with absolute privacy for all EcoSystem participants.&#x20;
 
-Blockchian-Ads has 3 products that are proprietary solutions and cover all the elements from the AdTech industry.
+Blockchain-Ads has 3 products that are proprietary solutions and cover all the elements from the AdTech industry.
 
 1. Attribution/Analytics tool&#x20;
 2. Data Marketplace (Management platform)
@@ -104,7 +102,7 @@ In addition the onchain validation can be used by the existing web2 adtech solut
 
 <figure><img src=".gitbook/assets/Screen Shot 2566-02-17 at 11.43.39.png" alt=""><figcaption></figcaption></figure>
 
-Blockchain-Ads provide complete transparency, remove central authority, cut out the middleman, reduce fraud, and lower costs for all market participants. Blockchain-Ads its a browser agnostic solution that is based on using blochcain tech to remove all the middle man and introduce AI model for advance performance by asses users on-chain and off-chain behavior paterns ;&#x20;
+Blockchain-Ads provide complete transparency, remove central authority, cut out the middleman, reduce fraud, and lower costs for all market participants. Blockchain-Ads its a browser agnostic solution that is based on using blockchain tech to remove all the middle man and introduce AI model for advance performance by asses users on-chain and off-chain behavior patterns;&#x20;
 
 
 
@@ -112,15 +110,15 @@ The solutions that Blockchain-Ads is suggesting:
 
 ### **2.1 Attribution/Analytics platform**
 
-Considering the fact the some of the biggest Brand companies are entering the web3 space, and creating new renvenue models, for example Disney or NBA, who combined grossed over 1B in revenue from their branded digital collectibles. There are more then 1000 top brands that are looking to enter this profitable business line. The biggest problem is the data insights. Crypto wallets are build for privacy and anonymity. How can marketers see what marketing sources are marketing efforts are bringing the best performance and how can they see what users want and what are they interested in.
+Considering the fact the some of the biggest Brand companies are entering the web3 space, and creating new revenue models, for example Disney or NBA, who combined grossed over 1B in revenue from their branded digital collectibles. There are more than 1000 top brands that are looking to enter this profitable business line. The biggest problem is the data insights. Crypto wallets are build for privacy and anonymity. How can marketers see what marketing sources are marketing efforts are bringing the best performance and how can they see what users want and what are they interested in.
 
 Blockchain-Ads Attribution/Analytics script act as a merger between web2 website actions and web3 on-chain transactions. Using an NodeJS code that is deployed on a website, as same as deploying Google Analytics script, with an additional functionality that is passing the web3 properties to the backend and adding them to the standard user profile.&#x20;
 
-This creates anonymous profiles, that have unique ID's and are stored separatelly then the data sets attached to these ID's. Using a ZK proof solution the data is verified without reaveling the content.&#x20;
+This creates anonymous profiles, that have unique ID's and are stored separately then the data sets attached to these ID's. Using a ZK proof solution the data is verified without revealing the content.&#x20;
 
-Using an indexer, the datasets are being indexed on-chain based on specific predetermined set of criteria (numer of transaction, age of the wallet, activity of the user) or specific onchain tags (DeFi, GameFi, Play2Earn, Stablecoins, Metaverse) and passed back to the front UI analytics.&#x20;
+Using an indexer, the datasets are being indexed on-chain based on specific predetermined set of criteria (number of transaction, age of the wallet, activity of the user) or specific on-chain tags (DeFi, GameFi, Play2Earn, Stablecoins, ) and passed back to the front UI analytics.&#x20;
 
-This gives detail insights and enable brands to trully know their audince and have 360 atttribution. Based web2 events tracking they can determined where the users came from  (Paid/organic, or what source, social, search, ad network) and based on the on-chain transactions they can calculate their Marketing ROI and optimize the marketing efforts accordingly.&#x20;
+This gives detail insights and enable brands to trully know their audince and have 360 attribution. Based web2 events tracking they can determined where the users came from  (Paid/organic, or what source, social, search, ad network) and based on the on-chain transactions they can calculate their Marketing ROI and optimize the marketing efforts accordingly.&#x20;
 
 The deployment of the analytics script is explained in the [git repo that is public](https://github.com/Blockchain-Ads/attribution-analytics#getting-started).
 
@@ -220,7 +218,7 @@ The technical implementation of the cookie is in the [BCA GitRepo](https://githu
 
 
 
-### **2.3 Ad Platform (Marketplace)**.  <a href="#_nj8c7dpy5fjk" id="_nj8c7dpy5fjk"></a>
+### **2.3 Ad Platform (Marketplace)**.  <a href="#nj8c7dpy5fjk" id="nj8c7dpy5fjk"></a>
 
 In summary Blockchain-Ads P2P Ad platform is based on the following model of marketplace; every advertiser creates an account on blockchain and associates it with their domain.
 
@@ -230,7 +228,7 @@ Publishers use blockchain to discover advertisers and crawl their inventories. W
 
 Advertisers have an incentive to pay a fair amount for displaying their ads or risk getting banned from the most valuable sites, or even lose bids to other advertisers. Publishers are incentivized to display the most matching ads to maximize their yield.
 
-#### 2.3.1 Ad Server <a href="#_wlgy1ghn81km" id="_wlgy1ghn81km"></a>
+#### 2.3.1 Ad Server <a href="#wlgy1ghn81km" id="wlgy1ghn81km"></a>
 
 The Blockchain-Ads protocol builds on top of blockchain tech to facilitate the parts that need achieving consensus in a trust-less, decentralized manner. This part is commonly referred to as the "Blockchain-Ads Server".
 
@@ -255,7 +253,7 @@ The on-chain interactions are:
 
 For more information on how the payment channels work, see DREW.
 
-#### 2.3.2 Ad Marketplace <a href="#_ov8z814ochyf" id="_ov8z814ochyf"></a>
+#### 2.3.2 Ad Marketplace <a href="#ov8z814ochyf" id="ov8z814ochyf"></a>
 
 The market is a RESTful service maintained and hosted by Blockchain-Ads Network.
 
@@ -309,7 +307,7 @@ This architecture ensures that both parties get their analytical reports by aggr
 
 In order to maintain compatibility with the existing Blockchain-Ads infrastructure (the Platform and the Server), you don't need to follow the architecture outlined in validator-stack., but you need to implement the same RESTful APIs.
 
-#### 2.3.3 Self-service Platform <a href="#_8l5irbd6fmdq" id="_8l5irbd6fmdq"></a>
+#### 2.3.3 Self-service Platform <a href="#id-8l5irbd6fmdq" id="id-8l5irbd6fmdq"></a>
 
 The primary implementation is Blockchain-Ads-Server-manager, which is designed for the web. It's important to note that the Platform is entirely browser-agnostic. It can run as a library (alongside React or any other modern framework) or in an \<iframe> on the publisher's webpage.
 
@@ -335,7 +333,7 @@ To achieve this, the Server always has to be loaded from the same domain (e.g. B
 
 Advertisers may report tags that allow for remarketing, such as a tag indicating that a user visited their website, or even a tag indicating they've visited a particular page, allowing for dynamic remarketing.
 
-****
+
 
 &#x20;  **2.3.3.3 Privacy of the end-user**
 
@@ -347,11 +345,11 @@ A further advantage to this approach is that the user can easily control what ki
 
 To ensure that infrastructure providers such as the Market and validators have no ability to collect data, Server sends no identifiable user data when interacting with them. Furthermore, each ad campaign can be handled by different validators to ensure that the validator operators cannot perform side-channel attacks. Finally, validators are required to implement the EFF's Do not track policy.
 
-### **** <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
+### &#x20;<a href="#id-9i3ze6ezssi4" id="id-9i3ze6ezssi4"></a>
 
-### **3. Benefits from the Proposed Solution**  <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
+### **3. Benefits from the Proposed Solution**  <a href="#id-9i3ze6ezssi4" id="id-9i3ze6ezssi4"></a>
 
-#### **3.1 Decentralized Advertising ecosystem** <a href="#_9i3ze6ezssi4" id="_9i3ze6ezssi4"></a>
+#### **3.1 Decentralized Advertising ecosystem** <a href="#id-9i3ze6ezssi4" id="id-9i3ze6ezssi4"></a>
 
 Advertisers and Publishers meet directly using the Blockchain-Ads P2P Network as the core which acts as a decentralized marketplace governed by the smart contracts.
 
@@ -361,7 +359,7 @@ Ultimately, Blockchain-Ads is completely censorship resistant since anyone can r
 
 By providing a viable and effective alternative advertising solution to big tech platforms, specifically designed for the Web3.0 generation, Blockchain-Ads will play an important part in the process of freeing blockchain enterprises from the restrictions and limitations imposed upon them by censorious big tech platforms.
 
-#### **3.2 No Middleman - No Fees Or Commissions** <a href="#_emxwv6ux6xsk" id="_emxwv6ux6xsk"></a>
+#### **3.2 No Middleman - No Fees Or Commissions** <a href="#emxwv6ux6xsk" id="emxwv6ux6xsk"></a>
 
 The primary goal for the Blockchain-Ads ecosystem is to render various ad exchanges obsolete by using the open platform that will enable advertisers and publishers to find themselves and trade directly using blockchain.
 
@@ -377,7 +375,7 @@ More information about the business model mechanics can be in the token economic
 
 ![](<.gitbook/assets/Screen Shot 2565-06-23 at 19.15.30.png>)
 
-#### **3.3 Bank - less Advertising** <a href="#_9wp378ntiwe" id="_9wp378ntiwe"></a>
+#### **3.3 Bank - less Advertising** <a href="#id-9wp378ntiwe" id="id-9wp378ntiwe"></a>
 
 There's nothing in Blockchain-Ads requiring advertisers/publishers to identify themselves with anything other than a cryptographic identity. Blockchain-Ads is an advertising platform that will exist in an economy that is completely separate from the banking system.
 
@@ -387,7 +385,7 @@ More generally, we can observe that ad exchanges operating in centralized enviro
 
 In addition, we make a commitment to enable open access, without an account, utilizing the wallet sign-in mechanism to identify and manage user accounts.
 
-#### **3.4 Transparent and Secure Platform** <a href="#_nz1yehvk0tra" id="_nz1yehvk0tra"></a>
+#### **3.4 Transparent and Secure Platform** <a href="#nz1yehvk0tra" id="nz1yehvk0tra"></a>
 
 The Blockchain-Ads platform will not share revenue with publishers, instead, the Blockchain Ad Platform acts as a marketplace where publishers and advertisers communicate directly. The ad in inventories are being offered by the publishers and ad creatives to be advertised by the advertisers, The open ledger allows clear visibility which websites the ads are being shown and the ad traffic by specific zone.
 
@@ -397,11 +395,11 @@ Accounts used to receive and send payments for ads on blockchain will be linked 
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### 4. Advertising Industry Competition <a href="#_mhy21ph31xho" id="_mhy21ph31xho"></a>
+### 4. Advertising Industry Competition <a href="#mhy21ph31xho" id="mhy21ph31xho"></a>
 
 The current Advertising landscape can be divided in: Web2.0 & Web3.0
 
-#### 4.1 Web2.0 - Centralized <a href="#_v505mv5rv9u" id="_v505mv5rv9u"></a>
+#### 4.1 Web2.0 - Centralized <a href="#v505mv5rv9u" id="v505mv5rv9u"></a>
 
 ![](.gitbook/assets/2)
 
@@ -415,7 +413,7 @@ Big players in the ad exchange market like Google DoubleClick, Facebook, Criteo,
 
 These 3 factors will shift the weight and elevate the game on a different level. Meaning that with decentralization taking place across all industries, the Advertising Industry will adapt and evolve, leaving robust, corporate Tech giants.
 
-#### 4.2 Web3.0 Decentralized Advertising <a href="#_f3ku492v9r8d" id="_f3ku492v9r8d"></a>
+#### 4.2 Web3.0 Decentralized Advertising <a href="#f3ku492v9r8d" id="f3ku492v9r8d"></a>
 
 There are few projects that have had an attempt to make an entry in the web3.0 advertising industry. Alkimi.exchange, Adex.Network, DragonX, BAT, Adshares.net ….&#x20;
 
@@ -427,9 +425,9 @@ The actual Advertising participants, Advertisers, Publishers and most importantl
 
 ![](https://lh3.googleusercontent.com/RNzPMsEqv4gKOSgIo4II3pOcRSeKj26LwjRu7dPU8i4HoHtRw2tBaNv\_CNNCQG2E3ELILItXkjaRyoEN\_1OloyV2v7VSSlm\_00rYkQ\_CMXq01j1dMOWxwyQQGIIXOOpDHotZxN06)
 
-### Appendix <a href="#_ctnxhjj1zhes" id="_ctnxhjj1zhes"></a>
+### Appendix <a href="#ctnxhjj1zhes" id="ctnxhjj1zhes"></a>
 
-#### 1. Autonomous regulation <a href="#_f00kk0z5dvbd" id="_f00kk0z5dvbd"></a>
+#### 1. Autonomous regulation <a href="#f00kk0z5dvbd" id="f00kk0z5dvbd"></a>
 
 Ultimately, Blockchain-Ads is completely censorship resistant since anyone can run their own Marketplace and Platform and do whatever they want with them.
 
@@ -443,7 +441,7 @@ The Blockchain-Ads components provide multiple ways for the system to self regul
 
 Further down the line, reputation systems could be developed to make it easier for participants to push out low quality or deceptive ads.
 
-#### 2. Preventing fraud/attacks <a href="#_fifileowj29s" id="_fifileowj29s"></a>
+#### 2. Preventing fraud/attacks <a href="#fifileowj29s" id="fifileowj29s"></a>
 
 One of the main challenges of any digital advertising system is preventing fake or invalid impressions/clicks.
 
@@ -456,7 +454,7 @@ There are a few ways to mitigate that in Blockchain-Ads:
 
 Blockchain-Ads tries to make it as hard as possible. We believe the transparent reporting aspect of the system, combined with the "custom events", which allow you to track end results (e.g. registrations, purchases, etc.), ensure that the incentives for fraud are significantly reduced.
 
-#### 3. Privacy of publishers/advertisers <a href="#_fqzebh8tvqse" id="_fqzebh8tvqse"></a>
+#### 3. Privacy of publishers/advertisers <a href="#fqzebh8tvqse" id="fqzebh8tvqse"></a>
 
 There's nothing in Blockchain-Ads requiring advertisers/publishers to identify themselves with anything other than a cryptographic identity (wallet address). Information that might reveal more (e.g. ad unit info, web addresses, creatives) is kept on permission based blockchain and completely decentralized data storage.
 
@@ -468,7 +466,7 @@ Anyone in the network can query any validators for events, but only for the even
 
 Please note that the entire balance tree of each channel will be revealed to everyone at all times, (1) to allow earners (publishers) to observe it's validity and (2) it will be revealed on-chain anyway once everyone withdraws.
 
-#### 4. Identity <a href="#_4bl5f6hbl39n" id="_4bl5f6hbl39n"></a>
+#### 4. Identity <a href="#id-4bl5f6hbl39n" id="id-4bl5f6hbl39n"></a>
 
 The Identity layer is designed to streamline the user experience of the Platform.
 
@@ -481,7 +479,7 @@ This solves many UX hurdles that are typical for blockchain-related applications
 
 In the Platform, we also allow the so-called "Quick accounts' ': you can sign up with an email/passphrase, and the Platform will generate and store a keypair for you, encrypted with your passphrase. Because this is suboptimal for security, those accounts may be limited (by the Market) in terms of earnings. However, thanks to the Identity layer, those accounts can be easily secured by de-authorizing the temporary keypair and authorizing a proper wallet such as Metamask/Trezor.
 
-### 5. Growth plan <a href="#_elxrpko2qkw7" id="_elxrpko2qkw7"></a>
+### 5. Growth plan <a href="#elxrpko2qkw7" id="elxrpko2qkw7"></a>
 
 The Blockchain-Ads EcoSystem is under active development.
 
