@@ -4,7 +4,7 @@
 
 ### **Abstract** <a href="#v89y2kyr609" id="v89y2kyr609"></a>
 
-Web 3.0 is the next generation of the internet, which aims to provide a decentralized and more secure network. One of the major applications of Web 3.0 is advertising technology (AdTech) and Big data, which is currently monopolized by a few tech giants. The use of blockchain technology, zero-knowledge proofs for data validation, and a peer-to-peer (P2P) marketplace without middlemen creates more efficient and transparent environment. When combined with AI and machine learning, this can lead to a disruption of the current market monopoly.
+Web 3.0 is the next generation of the internet, which aims to provide a decentralized and more secure network. One of the major applications of Web 3.0 is advertising technology (AdTech) and Marketing Tech (MarTech), which is currently monopolized by a few tech giants. The use of blockchain technology, zero-knowledge proofs for data validation, and a peer-to-peer (P2P) marketplace without middlemen creates more efficient and transparent environment. When combined with AI and machine learning, this can lead to a disruption of the current market monopoly.
 
 Blockchain-Ads is addressing these issues, as the web3 generation of advertising technology and big data, leveraging blockchain technology, zero-knowledge proofs, and peer-to-peer marketplaces to create a more efficient, transparent, and privacy-preserving ecosystem.
 
@@ -94,11 +94,13 @@ Blockchain-Ads is a Web3 Generation in AdTech & MarTech, offering decentralized 
 
 Blockchain-Ads has 3 products that are proprietary solutions and cover all the elements from the AdTech industry.
 
-1. Attribution/Analytics tool&#x20;
-2. Data Marketplace (Management platform)
-3. Advertising Platform
+1. Advertising Platform
+2. Data Marketplace&#x20;
+3. Attribution/Analytics tool&#x20;
 
-In addition the onchain validation can be used by the existing web2 adtech solutions through a API or SDK, in order to enable complete privacy and immutability and stay compliant with the ongoing privacy protection legislation.&#x20;
+
+
+In addition the on-chain validation can be used by the existing web2 adtech solutions through a API or SDK, in order to enable complete privacy and immutability and stay compliant with the ongoing privacy protection legislation.&#x20;
 
 <figure><img src=".gitbook/assets/Screen Shot 2566-02-17 at 11.43.39.png" alt=""><figcaption></figcaption></figure>
 
@@ -108,117 +110,7 @@ Blockchain-Ads provide complete transparency, remove central authority, cut out 
 
 The solutions that Blockchain-Ads is suggesting:
 
-### **2.1 Attribution/Analytics platform**
-
-Considering the fact the some of the biggest Brand companies are entering the web3 space, and creating new revenue models, for example Disney or NBA, who combined grossed over 1B in revenue from their branded digital collectibles. There are more than 1000 top brands that are looking to enter this profitable business line. The biggest problem is the data insights. Crypto wallets are build for privacy and anonymity. How can marketers see what marketing sources are marketing efforts are bringing the best performance and how can they see what users want and what are they interested in.
-
-Blockchain-Ads Attribution/Analytics script act as a merger between web2 website actions and web3 on-chain transactions. Using an NodeJS code that is deployed on a website, as same as deploying Google Analytics script, with an additional functionality that is passing the web3 properties to the backend and adding them to the standard user profile.&#x20;
-
-This creates anonymous profiles, that have unique ID's and are stored separately then the data sets attached to these ID's. Using a ZK proof solution the data is verified without revealing the content.&#x20;
-
-Using an indexer, the datasets are being indexed on-chain based on specific predetermined set of criteria (number of transaction, age of the wallet, activity of the user) or specific on-chain tags (DeFi, GameFi, Play2Earn, Stablecoins, ) and passed back to the front UI analytics.&#x20;
-
-This gives detail insights and enable brands to trully know their audince and have 360 attribution. Based web2 events tracking they can determined where the users came from  (Paid/organic, or what source, social, search, ad network) and based on the on-chain transactions they can calculate their Marketing ROI and optimize the marketing efforts accordingly.&#x20;
-
-The deployment of the analytics script is explained in the [git repo that is public](https://github.com/Blockchain-Ads/attribution-analytics#getting-started).
-
-Business Model:
-
-Analytics Platform (Web3): Freemium Model with limited features and amount of data on the free version. Business model will be based on hits (page views, action taken on the website etc…)
-
-Price starts at $200 for 600,000 hits (per month) and goes up to $15,000 for 100 million hits
-
-
-
-### **2.2 Private Data Management Platform (Marketplace)**
-
-The concept of a Private Data Management Platform is a marketplace for users browsing data, a place where dataset are being stored and sold. The focus is held on privacy and immutability. The [big data industry is roughly worth $200Bn](https://www.marketsandmarkets.com/Market-Reports/big-data-market-1068.html) and massively surpressed by legislation. The whole industry is in jeopardy of collapsing. The solution is very simple. Data democratization and shared revenue model.&#x20;
-
-The solution composes of 2 parts: data acquisition network and data management.
-
-As the time of the writing of this whitepaper only the key component of the Data Marketplace the "Web3Cookie"
-
-The data Acquisition happens in two ways:
-
-* Indirect: where data is acquired through a network of 3rd party websites, online properties, apps, data partners...etc.&#x20;
-* Direct: on BCA website properties where data is being collected directly from the users.&#x20;
-
-In both cases there is a shared revenue model in place, where the data providers are compensated with 50% of the revenue generated every single time the data sets are accessed by a vendor.&#x20;
-
-Data Management is a way to manage and segment data and data set on user profiles that are completely private. The same principal used in the Analytics is used here, where every user profile has a unique ID and it stored separately from the user data sets (browsing data) and wallet address if any.
-
-The BCA layer is where the data is validated and verified without revealing the content of the data sets. This makes it completey privacy compliant. Further more every data provided, example have a standard consent form on their website, so the solution that BCA provide add additional security and privacy when managing and monetizing that data.&#x20;
-
-Recently, some of the biggest web3 brands such as Metamask and Aave, started collecting users IP addresses for the purpose of monetizing that data. The Big web2 brands who are entering the space already have a massive data monetization opportunity.&#x20;
-
-So private data aggregate is way more valuable on the vendors market than a single data provider, as those data sets can be cross-matched and cross-reference across different data providers building high quality and valuable structured data. &#x20;
-
-BUSINESS MODEL / REVENUE STREAMS
-
-Data Exchange:&#x20;
-
-Device ID only: $25/month per 1,000 users. 1M users is $25,000/month.
-
-Wallet Address + Device ID: $35 per user / month (including wallet Analytics).&#x20;
-
-Integrated Advertising: Activating purchased data on the Blockchain-Ads ad platform + contextual advertising.
-
-Avg. Advertising Price (CPM): $3.9. Price adjusts itself based on supply and demand.                  Avg. Contextual Price (CPM): $3.12. Price adjusts itself based on supply and demand. Those who also buy data will get priority in the auction.
-
-With this business model and assuming the following split:
-
-Blockchain-Ads: 50% ; Data provider: 50%
-
-Data provider gets (on average):&#x20;
-
-* $10,000/per vendor access to the data insights, considering the data provider have 500k of users a month.
-* $10,000x100= $1,000,000 when 100 vendors (advertisers, ad networks, SSP...) access that data sets
-
-Data provider’s revenue will be split equally between all publishers that share each piece of data, but they will earn enough money anyways as they will sell in bulk instead of individual users. For example, if you have 1,000,000 visitors, you would earn $12,500 every time an advertiser accesses that data, assuming minimum overlap with any other publishers.
-
-On the demand side: The Private Data Management platform enable activation of 3rd party data, segmenting 1st party data and activating those segments cross-platforms. Using a Universal ID and mobile ID the data can be activated on any programmatic platforms, social platfroms, retargeting...etc. This opens up a lot of used-cases.
-
-#### **2.2.1 Web3Cookie**
-
-The Core proprietery solution within the BCA EcoSystem is the "Web3cookie"&#x20;
-
-Simply put Web3 cookies are an extension of standard web3 cookies that add an extra layer of web3 properties. This layer provides complete user privacy while still allowing for 360-degree attribution. Unlike traditional cookies, which are stored on centralized servers and are vulnerable to data breaches, web3 cookies are stored on a decentralized blockchain network. This ensures that users have complete control over their data, and their privacy is protected.
-
-Web3 cookies work by creating a unique identifier that is stored on the user's device. This identifier is then used to track user behavior across different websites and platforms. However, unlike traditional cookies, the user's data is not shared with any centralized servers or third-party advertisers.
-
-The cookie can we deployed in two ways:
-
-* **Passively:**&#x20;
-
-Like any other cookie and on a website property. This gives a way to the publishers(websites) to  monetize the data,&#x20;
-
-This distribution channel is seamless and requires zero user action, used to get high volume of data.
-
-* **Actively:**
-
-For users to generate their own cookie on BCA online properties. At the moment there is only a web3 signup solution, where users directly communicate with a smart contract and generate their cookie. This is a way to enable users to monetize on their own data.&#x20;
-
-This is the distribution channel used to onboard the new 1M web3 users.&#x20;
-
-
-
-The Web3cookie solution is used across all BCA EcoSystem products and it's the part that connects all participants.&#x20;
-
-The web3cookie is build for privacy, so there is a always concent by the user:
-
-\- when deployed passively, the website visitors are interecting and give consent to the brand to collect their data, after which the cookie is deployed and the data passed to the backend.&#x20;
-
-\- when deployed actively the users give consent by communicating with the BCA smart contract directly, after which the cookie is deployed and data passed to the backend.&#x20;
-
-In both cases it creates anonymous profiles, that have unique ID's and are stored separatelly then the data sets attached to these ID's. Using a ZK proof solution the data is verified without reaveling the content.&#x20;
-
-The technical implementation of the cookie is in the [BCA GitRepo](https://github.com/Blockchain-Ads/Web3-cookie-SC).&#x20;
-
-<figure><img src=".gitbook/assets/Screen Shot 2566-02-18 at 16.26.34 (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-### **2.3 Ad Platform (Marketplace)**.  <a href="#nj8c7dpy5fjk" id="nj8c7dpy5fjk"></a>
+### **2.1 Advertising Platform**&#x20;
 
 In summary Blockchain-Ads P2P Ad platform is based on the following model of marketplace; every advertiser creates an account on blockchain and associates it with their domain.
 
@@ -337,7 +229,7 @@ Advertisers may report tags that allow for remarketing, such as a tag indicating
 
 &#x20;  **2.3.3.3 Privacy of the end-user**
 
-Privacy of end users is protected by not collecting any data at all, at any part of the system. Instead, we leverage contextual targeting.
+Privacy of end users is protected by not collecting any PII data at all, at any part of the system.
 
 Furthermore, we have moved the process of selecting an ad to show to the user's browser, which is essentially equivalent header bidding but with stronger privacy guarantees. This ensures that user data never needs to be exposed/revealed.
 
@@ -345,7 +237,115 @@ A further advantage to this approach is that the user can easily control what ki
 
 To ensure that infrastructure providers such as the Market and validators have no ability to collect data, Server sends no identifiable user data when interacting with them. Furthermore, each ad campaign can be handled by different validators to ensure that the validator operators cannot perform side-channel attacks. Finally, validators are required to implement the EFF's Do not track policy.
 
-### &#x20;<a href="#id-9i3ze6ezssi4" id="id-9i3ze6ezssi4"></a>
+### **2.2 Private Data Management Platform (Marketplace)**
+
+The concept of a Private Data Management Platform is a marketplace for users browsing data, a place where dataset are being stored and sold. The focus is held on privacy and immutability. The [big data industry is roughly worth $200Bn](https://www.marketsandmarkets.com/Market-Reports/big-data-market-1068.html) and massively suppressed by legislation. The whole industry is in jeopardy of collapsing. The solution is very simple. Data democratization and shared revenue model.&#x20;
+
+The solution composes of 2 parts: data acquisition network and data management.
+
+As the time of the writing of this whitepaper only the key component of the Data Marketplace the "Web3Cookie"
+
+The data Acquisition happens in two ways:
+
+* Indirect: where data is acquired through a network of 3rd party websites, online properties, apps, data partners...etc.&#x20;
+* Direct: on BCA website properties where data is being collected directly from the users.&#x20;
+
+In both cases there is a shared revenue model in place, where the data providers are compensated with 50% of the revenue generated every single time the data sets are accessed by a vendor.&#x20;
+
+Data Management is a way to manage and segment data and data set on user profiles that are completely private. The same principal used in the Analytics is used here, where every user profile has a unique ID and it stored separately from the user data sets (browsing data) and wallet address if any.
+
+The BCA layer is where the data is validated and verified without revealing the content of the data sets. This makes it completey privacy compliant. Further more every data provided, example have a standard consent form on their website, so the solution that BCA provide add additional security and privacy when managing and monetizing that data.&#x20;
+
+Recently, some of the biggest web3 brands such as Metamask and Aave, started collecting users IP addresses for the purpose of monetizing that data. The Big web2 brands who are entering the space already have a massive data monetization opportunity.&#x20;
+
+So private data aggregate is way more valuable on the vendors market than a single data provider, as those data sets can be cross-matched and cross-reference across different data providers building high quality and valuable structured data. &#x20;
+
+BUSINESS MODEL / REVENUE STREAMS
+
+Data Exchange:&#x20;
+
+Device ID only: $25/month per 1,000 users. 1M users is $25,000/month.
+
+Wallet Address + Device ID: $35 per user / month (including wallet Analytics).&#x20;
+
+Integrated Advertising: Activating purchased data on the Blockchain-Ads ad platform + contextual advertising.
+
+Avg. Advertising Price (CPM): $3.9. Price adjusts itself based on supply and demand.                  Avg. Contextual Price (CPM): $3.12. Price adjusts itself based on supply and demand. Those who also buy data will get priority in the auction.
+
+With this business model and assuming the following split:
+
+Blockchain-Ads: 50% ; Data provider: 50%
+
+Data provider gets (on average):&#x20;
+
+* $10,000/per vendor access to the data insights, considering the data provider have 500k of users a month.
+* $10,000x100= $1,000,000 when 100 vendors (advertisers, ad networks, SSP...) access that data sets
+
+Data provider’s revenue will be split equally between all publishers that share each piece of data, but they will earn enough money anyways as they will sell in bulk instead of individual users. For example, if you have 1,000,000 visitors, you would earn $12,500 every time an advertiser accesses that data, assuming minimum overlap with any other publishers.
+
+On the demand side: The Private Data Management platform enable activation of 3rd party data, segmenting 1st party data and activating those segments cross-platforms. Using a Universal ID and mobile ID the data can be activated on any programmatic platforms, social platfroms, retargeting...etc. This opens up a lot of used-cases.
+
+#### **2.2.1 Web3Cookie**
+
+The Core proprietery solution within the BCA EcoSystem is the "Web3cookie"&#x20;
+
+Simply put Web3 cookies are an extension of standard web3 cookies that add an extra layer of web3 properties. This layer provides complete user privacy while still allowing for 360-degree attribution. Unlike traditional cookies, which are stored on centralized servers and are vulnerable to data breaches, web3 cookies are stored on a decentralized blockchain network. This ensures that users have complete control over their data, and their privacy is protected.
+
+Web3 cookies work by creating a unique identifier that is stored on the user's device. This identifier is then used to track user behavior across different websites and platforms. However, unlike traditional cookies, the user's data is not shared with any centralized servers or third-party advertisers.
+
+The cookie can we deployed in two ways:
+
+* **Passively:**&#x20;
+
+Like any other cookie and on a website property. This gives a way to the publishers(websites) to  monetize the data,&#x20;
+
+This distribution channel is seamless and requires zero user action, used to get high volume of data.
+
+* **Actively:**
+
+For users to generate their own cookie on BCA online properties. At the moment there is only a web3 signup solution, where users directly communicate with a smart contract and generate their cookie. This is a way to enable users to monetize on their own data.&#x20;
+
+This is the distribution channel used to onboard the new 1M web3 users.&#x20;
+
+
+
+The Web3cookie solution is used across all BCA EcoSystem products and it's the part that connects all participants.&#x20;
+
+The web3cookie is build for privacy, so there is a always concent by the user:
+
+\- when deployed passively, the website visitors are interecting and give consent to the brand to collect their data, after which the cookie is deployed and the data passed to the backend.&#x20;
+
+\- when deployed actively the users give consent by communicating with the BCA smart contract directly, after which the cookie is deployed and data passed to the backend.&#x20;
+
+In both cases it creates anonymous profiles, that have unique ID's and are stored separatelly then the data sets attached to these ID's. Using a ZK proof solution the data is verified without reaveling the content.&#x20;
+
+The technical implementation of the cookie is in the [BCA GitRepo](https://github.com/Blockchain-Ads/Web3-cookie-SC).&#x20;
+
+<figure><img src=".gitbook/assets/Screen Shot 2566-02-18 at 16.26.34 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### **2.3 Attribution/Analytics platform**  <a href="#nj8c7dpy5fjk" id="nj8c7dpy5fjk"></a>
+
+
+
+Considering the fact the some of the biggest Brand companies are entering the web3 space, and creating new revenue models, for example Disney or NBA, who combined grossed over 1B in revenue from their branded digital collectibles. There are more than 1000 top brands that are looking to enter this profitable business line. The biggest problem is the data insights. Crypto wallets are build for privacy and anonymity. How can marketers see what marketing sources are marketing efforts are bringing the best performance and how can they see what users want and what are they interested in.
+
+Blockchain-Ads Attribution/Analytics script act as a merger between web2 website actions and web3 on-chain transactions. Using an NodeJS code that is deployed on a website, as same as deploying Google Analytics script, with an additional functionality that is passing the web3 properties to the backend and adding them to the standard user profile.&#x20;
+
+This creates anonymous profiles, that have unique ID's and are stored separately then the data sets attached to these ID's. Using a ZK proof solution the data is verified without revealing the content.&#x20;
+
+Using an indexer, the datasets are being indexed on-chain based on specific predetermined set of criteria (number of transaction, age of the wallet, activity of the user) or specific on-chain tags (DeFi, GameFi, Play2Earn, Stablecoins, ) and passed back to the front UI analytics.&#x20;
+
+This gives detail insights and enable brands to trully know their audince and have 360 attribution. Based web2 events tracking they can determined where the users came from  (Paid/organic, or what source, social, search, ad network) and based on the on-chain transactions they can calculate their Marketing ROI and optimize the marketing efforts accordingly.&#x20;
+
+The deployment of the analytics script is explained in the [git repo that is public](https://github.com/Blockchain-Ads/attribution-analytics#getting-started).
+
+Business Model:
+
+Analytics Platform (Web3): Freemium Model with limited features and amount of data on the free version. Business model will be based on hits (page views, action taken on the website etc…)
+
+Price starts at $200 for 600,000 hits (per month) and goes up to $15,000 for 100 million hits
 
 ### **3. Benefits from the Proposed Solution**  <a href="#id-9i3ze6ezssi4" id="id-9i3ze6ezssi4"></a>
 
@@ -367,9 +367,9 @@ Standardized exchange and easy access to market will foster development of open 
 
 Furthermore, Blockchain-Ads **does not** operate on a revenue-share basis with publishers, meaning no commissions will be charged on purchased traffic. That means a substantial amount of value that would usually go towards intermediaries and middle-men will instead go directly to supply side publishers and provide a significant boost in ROAS potential for advertisers.
 
-Blockchain-Ads server will be funded directly by sales of the XADS token, which is required to access and buy advertising engagements on the Blockchain-Ads platform. This removes the need for us to charge a commission and gives us the ability to pay top dollar for the best performing traffic assets.
+Blockchain-Ads server will be funded directly by sales of the BCA token, which is required to access and buy advertising engagements on the Blockchain-Ads platform. This removes the need for us to charge a commission and gives us the ability to pay top dollar for the best performing traffic assets.
 
-By offering only min transaction fee, Blockchain-Ads Server will be able to pay publishers significantly more and stands to be an extremely attractive and lucrative alternative to current advertising platforms. In addition, by abolishing the revenue share / commission model, Blockchain-Ads will find it much easier to negotiate with extremely high quality traffic sources and create tangible long-term value for both the supply side and demand side of the advertising ecosystem.
+By offering only min transaction fee, Blockchain-Ads Server is able to pay publishers significantly more and stands to be an extremely attractive and lucrative alternative to current advertising platforms. In addition, by abolishing the revenue share / commission model, Blockchain-Ads find it much easier to negotiate with extremely high quality traffic sources and create tangible long-term value for both the supply side and demand side of the advertising ecosystem.
 
 More information about the business model mechanics can be in the token economics section of this document.
 
@@ -379,7 +379,7 @@ More information about the business model mechanics can be in the token economic
 
 There's nothing in Blockchain-Ads requiring advertisers/publishers to identify themselves with anything other than a cryptographic identity. Blockchain-Ads is an advertising platform that will exist in an economy that is completely separate from the banking system.
 
-The XADS token replaces the use of fiat currency and does not require a bank account, therefore, anyone with a crypto wallet can access the platform, acquire a XADS balance and use the platform regardless of their identity or banking status.
+The BCA token replaces the use of fiat currency and does not require a bank account, therefore, anyone with a crypto wallet can access the platform, acquire a BCA balance and use the platform regardless of their identity or banking status.
 
 More generally, we can observe that ad exchanges operating in centralized environments have huge pricing power over their users as they can enforce certain policies and accompanying services, like ad quality standards, landing page classification or data services. The smallest users are the ones most disadvantaged in this area. With an efficient, common means of payment, most of the accompanying services can move to on-demand services, competition will greatly increase and prices will fall.
 
@@ -415,7 +415,7 @@ These 3 factors will shift the weight and elevate the game on a different level.
 
 #### 4.2 Web3.0 Decentralized Advertising <a href="#f3ku492v9r8d" id="f3ku492v9r8d"></a>
 
-There are few projects that have had an attempt to make an entry in the web3.0 advertising industry. Alkimi.exchange, Adex.Network, DragonX, BAT, Adshares.net ….&#x20;
+There are few projects that have had an attempt to make an entry in the web3.0 advertising industry: Adex.Network, BAT, Adshares.net, Alkimi.exchange ….&#x20;
 
 All of them generally do not comply with the principles of Decentralization in a meaningful way. None of these projects have Blockchain solutions for tracking and historical data. The transactions and ad inventories are stored on a third party server, off-chain, which defy the whole decentralized value.&#x20;
 
@@ -487,7 +487,7 @@ Blockchain-Ads Ad Platform and Blockchain-Ads Analytics have completed MVP stage
 
 Bringing Blockchain-Ads ecosystem to full operable and scalable stage, will take 6 - 12 months depending on funding levels.
 
-Based on the 9 months of testing the market the EcoSystem Generated more than $550k in revenue from 25 clients. The cost per acquisition was +$40,000.&#x20;
+Based on the 18 months of testing the market the EcoSystem Generated more than $1.2M in revenue from 75 customers. The cost per acquisition was +$200,000.&#x20;
 
 Cost per client acquisition includes automated lead generation infrastructure + salaries & commissions of marketing, growth, design and sales employees and contractors.
 
@@ -495,8 +495,8 @@ Based of that numbers this is the proposed growth plan.
 
 1. **Expand the client base:** Assuming the company generates in average $22,000 in revenue per client with a CPA of $1,600, the EcoSystem would need to acquire around 1,818 new clients in the next 5 years to reach $40,000,000 in revenue. Given the 50% retention rate, the company would need to acquire a total of 3,636 clients over the course of the next 5 years.
 
-* There is a structure in place that have been used by the BlockchainAds Labs team to scale a web2 AdTech solution from $10K to $550K in MRR within 3 years. It is a system that is heavily focusing on outbound LeadGen, leveraging Automation tools and B2B social network API's. For the Scaling stage this will grow from 6 to 60 accounts and from a team of 2 to a team of 12. The B2B campaigns will be supported with Brand Awareness Paid Media campaings using Match audience targeting cross platfroms.&#x20;
-* An inbound LeadGen is the second approach which will complement the Outbound strategy which consist on full 360 marketing strategy; PR and social content as well as extensive SEO. The inbound strategy consist of having a refferal and marketing partners as vast expansion opportunity. (think of it GoogleAds Partnership program- or an affiliate program
+* There is a structure in place that have been used by the BlockchainAds Labs team to scale a web2 AdTech solution from $10K to $550K in MRR within 3 years. It is a system that is heavily focusing on inbound marketing or product led marketing.&#x20;
+* Partnership Program - Affiliate. [https://www.blockchain-ads.com/partner-program](https://www.blockchain-ads.com/partner-program)&#x20;
 
 2. **Develop strategic partnerships**: These partnerships will help the EcoSystem reach a wider audience and establish itself as a key player in the industry. Assuming the team signs 5 strategic partnerships in the next 5 years, this could lead to an additional 473 new clients and $10,000,000 in revenue.
 
@@ -506,10 +506,10 @@ Some example of partners:
 
 * Small & Medium sized Data businesses who are looking for new audiences to add to their taxonomies: companies such as BDex, OnAudience, Iponweb who sell data and are always looking for the next audience to monetize. These players’ demand will be very elastic, depending on the volume of ad spend in the Web3 space. They are always looking for new sales opportunities, especially in “unexplored” verticals. However, they may be easier to approach from their customers’ side, by having advertisers refer us to them. Advertisers who are already integrating with such DMPs or DSPs will want to have our audiences onboarded through those platforms for ease of access. Once our foot is inside the door, it will be easy to scale our business with those Data companies and have them sell our audiences for us to their clients.
 
-3. **Expand product offering:** Blockchain-ads revenue from the MVP stage is solely from the AdPlatform. Expanding the offering with the Analytics tools and the Data marketplace, the EcoSystem has the potential to generate additional revenue. Assuming the revenue is $100 per subscription for the analytics tools and $15,000 per subscription for the data marketplace, and acquires 1,000 new subscribers over the next 5 years, this could lead to $20,000,000 in additional revenue.
+3. **Expand product offering:** Blockchain-ads revenue from the MVP stage is solely from the AdPlatform. Expanding the offering with the Analytics tools and the Data marketplace, the EcoSystem has the potential to generate additional revenue. What is currenlty in development is the KOL/Influencers Marketplace and a quest platfrom. All of this is currently supported by a AI Command based Center.&#x20;
 4. Invest in **R\&D**: Blockchain Ads Labs team will definitely invest in research and development to stay ahead of the curve in the rapidly evolving crypto market. This could involve exploring new technologies or developing proprietary algorithms, such as AI optimization model, that improve the performance of the Ad Platform. Assuming the team invests 10% of its revenue in R\&D, this could lead to new product features and efficiencies that lead to 20% increase in revenue, or around $8,000,000 in additional revenue.
 5. **Branding**: Blockchain Ads will work on developing a strong brand that is recognizable and trusted in the crypto market and other restrictive industries. This could involve a comprehensive brand strategy that includes public relations, social media and content marketing. Assuming the company invests 5% of its revenue in branding, this could lead to an additional 10% increase in revenue or around $4,000,000 in additional revenue.
-6. **Expand to new markets:** Once EcoSystem has established a strong presence in the crypto market it will consider expanding into new markets. This could include other industries where privacy and compliance are important, such as gaming, gambling CBD or alcohol. Assuming the company expands to two new industries in the next 5 years, this could lead to an additional 546 new clients and $12,000,000 in revenue.
+6. **Expand to new markets:** Once EcoSystem has established a strong presence in the crypto market it will consider expanding into new markets. This could include other industries where privacy and compliance are important, such as gaming, gambling CBD or alcohol. The BCA is already entering the igaming industry and acquiring few brand names as customers bringing over $100k in revenue.  Assuming the company expands to two new industries in the next 5 years, this could lead to an additional 546 new clients and $12,000,000 in revenue.
 7. **Focus on customer success**: Blockchain Ads will prioritize customer success by providing excellent product service and ongoing support. This will help to retain existing clients and attract new ones through positive referrals. Assuming the company maintains a client retention rate of 50%, this would lead to a retention of 1,818 clients and $40,000,000 in revenue.
 8. **Maintain a data-driven approach:** Blockchain Ads will continue to use data to inform decision-making and optimize the performance of the Ad Platform. This could involve analyzing data on customer behavior, campaign performance, and market trends to identify opportunities for growth and improvement. Assuming the company uses data to improve campaign performance by 10%, this could lead to an additional $4,000,000 in revenue.
 
